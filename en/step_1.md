@@ -11,8 +11,6 @@ Before you begin, you'll need access to an LLM.
 
 If you are under the required age limits or prefer to host *your own* Large Language Model on a Raspberry Pi, [follow our instructions here](https://projects.raspberrypi.org/en/projects/llm-rpi){:target="_blank"}.
 
-A free LLM with no sign-up required is available at [Groq](www.groq.com), but requires you to be 18 or older as part of the Terms of Service.
-
 Other online tools are available, but require registration with a current email address. Some examples include:
 - [Google Gemini](https://google.gemini.com/){:target="_blank"}
 - [Claude](www.claude.ai){:target="_blank"}
