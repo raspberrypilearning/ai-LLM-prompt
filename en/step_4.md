@@ -1,4 +1,4 @@
-## What next?
+## What can I do now?
 
 **You've completed the project 🎉**
 

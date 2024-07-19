@@ -1,9 +1,13 @@
 ## The OCEAN Prompting Process
 
+A "prompt" in large language models (LLMs) is the text you give to the model to get a response. It's like asking a question or giving a starting point for the model to create text. For example, if you type "Tell me a joke" - that's your prompt - so the model should respond with a joke.
+
+
+Getting good at writing solid prompts will make you awesome at using AI tools. 
 
 
 ### Objective
-Decide what you want to achieve. This is your goal for using the language model. Write this in your prompt, clearly stating what you want to have when you are finished with the LLM.
+Decide what you want to achieve. This is your goal for using the language model. Write this in your prompt, clearly stating *what you want to have* when you are finished with the LLM.
 
 --- task ---
 
@@ -12,9 +16,9 @@ Start your prompt with an **Objective**, which should begin: I want help creatin
 
  For example: 
 
-"I want help creating a recipe for a simple dessert."
-"I want help creating a short story."
-"I want help creating a study plan for my History exams."
+"I want help creating a *recipe for a simple dessert*."
+"I want help creating a *short story*."
+"I want help creating a *study plan for my History exams*."
 
 --- /task ---
 
