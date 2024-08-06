@@ -1,5 +1,13 @@
 ## The OCEAN Prompting Process
 
+<html>
+<br>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/hQYYPKaMT-M?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+    </iframe>
+  </div>
+</html>
+
 A "prompt" in large language models (LLMs) is the text you give to the model to get a response. It's like asking a question or giving a starting point for the model to create text. For example, if you type "Tell me a joke" - that's your prompt - so the model should respond with a joke.
 
 
