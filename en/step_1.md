@@ -5,6 +5,16 @@
     </iframe>    
 </html>
 
+--- collapse ---
+---
+title: No YouTube? Download the video!
+---
+
+You can download all the resources for this project, including the above video [by clicking here](https://projects.raspberrypi.org/en/projects/ai-LLM-prompt-go){:target="_blank"}. 
+
+
+--- /collapse ---
+
 Welcome to the exciting world of large language models! 
 
 By following these steps, you will learn how to prompt a large language model (LLM) in a clear way, to get the best results from these powerful AI tools. 
