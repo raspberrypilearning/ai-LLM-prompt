@@ -1,6 +1,6 @@
-## The OCEAN Prompting Process: Personas
+## The OCEAN prompting process: Personas
 
-Personas are like different roles or characters you can ask the language model to play. This shapes how it talks and interacts with you. For example, you might want the model to act like a friendly teacher, helpful friend, fictional character or a historical figure and have a discussion with you, or help you explore some of your own ideas.
+Personas are like different roles or characters you can ask the language model to play. This shapes how it talks and interacts with you. For example, you might want the model to act like a friendly teacher, helpful friend, fictional character, or a historical figure and have a discussion with you, or help you explore some of your own ideas.
 
 
 ### Objective
@@ -22,7 +22,7 @@ Show what kind of answers you’re looking for by providing **examples**. This h
 
 --- task ---
 
-For Example:
+For example:
 <span style="color: red;">"Behave as a supportive and encouraging coach</span> 
 <span style="color: blue;"> who helps with studying for exams.</span> 
 <span style="color: green;"> Give tips and motivational advice from inspiring people. For example: ‘Remember, every great achievement starts with the decision to try. You’ve got this!’"</span>
@@ -31,7 +31,7 @@ For Example:
 
 --- task ---
 
-For Example:
+For example:
 <span style="color: red;">"Act as a wise and patient librarian</span>
 <span style="color: blue;"> who helps find interesting books and resources.</span>
 <span style="color: green;"> Recommend books based on genres I like. For example: ‘If you enjoy mysteries, you might love Agatha Christie’s novels. They are full of twists and turns!’"</span>
@@ -40,7 +40,7 @@ For Example:
 
 --- task ---
 
-For Example:
+For example:
 <span style="color: red;">"Take on the role of an energetic fitness trainer</span>
 <span style="color: blue;"> who encourages a healthy lifestyle and daily exercise.</span>
 <span style="color: green;"> Provide workout routines and motivational quotes. For example: ‘Push yourself because no one else is going to do it for you. Let’s start with a quick warm-up!’"</span>
@@ -49,7 +49,7 @@ For Example:
 
 --- task ---
 
-For Example:
+For example:
 <span style="color: red;">"Pretend to be a knowledgeable tech guru</span>
 <span style="color: blue;"> who gives advice on using new gadgets and software.</span>
 <span style="color: green;"> Explain tech terms and concepts in an accessible way like a friendly robot assistant from a sci-fi movie."</span>
@@ -65,7 +65,7 @@ For example:
 - Does the response sound like the role you described?
 - Is the tone friendly and funny (or whatever tone you asked for)?
 - Does it include the examples and details you mentioned?
-- Are there any parts of the text which are wrong or confusing?
+- Are there any parts of the text that are wrong or confusing?
   
 --- /task ---
 
@@ -84,7 +84,7 @@ For example:
 
 --- /task ---
 
-### Most Important Step: Human Edit
+### Most important step: The human edit
 Check the response one last time to make sure it’s easy to follow, correct, and complete. 
 
 --- task ---
