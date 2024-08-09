@@ -8,25 +8,25 @@
   </div>
 </html>
 
-A "prompt" in large language models (LLMs) is the text you give to the model to get a response. It's like asking a question or giving a starting point for the model to create text. For example, if you type "Tell me a joke" - that's your prompt - so the model should respond with a joke.
+A "prompt" for large language models (LLMs) is the text you give to the model to get a response. It's like asking a question or giving a starting point for the model to create text. For example, if you type "Tell me a joke" — that's your prompt — so the model should respond with a joke.
 
 
 Getting good at writing solid prompts will make you awesome at using AI tools. 
 
 
 ### Objective
-Decide what you want to achieve. This is your goal for using the language model. Write this in your prompt, clearly stating *what you want to have* when you are finished with the LLM.
+Decide what you want to achieve. This is your goal when using the language model. Write this in your prompt, clearly stating **what you want to have** when you are finished with the LLM.
 
 --- task ---
 
-Start your prompt with an **Objective**, which should begin: I want help creating *something*. 
+Start your prompt with an **Objective**, which should begin: I want help creating **something**. 
 
 
  For example: 
 
-"I want help creating a *recipe for a simple dessert*."
-"I want help creating a *short story*."
-"I want help creating a *study plan for my History exams*."
+"I want help creating a **recipe for a simple dessert**."
+"I want help creating a **short story**."
+"I want help creating a **study plan for my History exams**."
 
 --- /task ---
 
@@ -39,7 +39,7 @@ Give **Context** to your prompt.
 
 For example: 
 
-"I want help creating a recipe for a simple dessert. *Make the recipe easy to follow for kids, with ingredients that can be found at home.*"
+"I want help creating a recipe for a simple dessert. **Make the recipe easy to follow for kids, with ingredients that can be found at home.**"
 
 --- /task ---
 
@@ -52,12 +52,12 @@ Add examples to your prompt.
 
 For example: 
 
-"I want help creating a recipe for a simple dessert. Make the recipe easy to follow for kids, with ingredients that can be found at home. *I like recipes that include creative choices, like decorating with sprinkles or adding icing. Write the recipe with a clear list of ingredients, with the method in numbered steps.*"
+"I want help creating a recipe for a simple dessert. Make the recipe easy to follow for kids, with ingredients that can be found at home. **I like recipes that include creative choices, like decorating with sprinkles or adding icing. Write the recipe with a clear list of ingredients, with the method in numbered steps.**"
 
 --- /task ---
 
 ### Assess
-Even though it might seem like it, LLMs don't actually understand ***anything*** they write. LLMs just choose the **next best word** by predicting patterns in language. They're really just like fancy auto-complete. Sometimes they write things which are wrong or unfair, and *you* have to be careful they don't get you in trouble because you didn't check what it wrote properly.
+Even though it might seem like it, LLMs don't actually understand **anything** they write. LLMs just choose the **next best word** by predicting patterns in language. They're really just like fancy auto-complete. Sometimes they write things that are wrong or unfair, and **you** have to be careful they don't get you in trouble because you didn't check what it wrote properly.
 
 --- task ---
  
@@ -68,29 +68,29 @@ For example:
 - Does the recipe list all the ingredients and steps clearly? 
 - Is there a fun decoration step?
 - Are there any crazy ingredients or methods that might be dangerous?
-- Are there any parts of the text which are wrong about a fact?
+- Are there any parts of the text that are wrong about a fact?
 - Are there things you don't understand?
 
 --- /task ---
 
 ### Negotiate  
-If the response isn’t quite right, ask the LLM to make changes. Be specific about what needs to be fixed. Treat the LLM like your assisstant who isn't very good at their job - check the work twice to make sure it's ok, then make sure the LLM corrects any mistakes or things you don't like. 
+If the response isn’t quite right, ask the LLM to make changes. Be specific about what needs to be fixed. Treat the LLM like your assisstant who isn't very good at their job — check the work twice to make sure it's ok, then make sure the LLM corrects any mistakes or things you don't like. 
 
 --- task ---
 
 Suggest changes and corrections to the LLM.
 
- For example: 
+For example: 
 
 "Close, but not quite. You didn't number the method steps, and I don't have any dark chocolate in the cupboard. I am also not allowed to use a blowtorch."
  
 --- /task ---
 
-**Most Important Step: Human Edit**  
+**Most important step: Human edit**  
 
 --- task ---
 
-Check the response one last time to make sure it’s easy to follow, correct and complete. There will be a time when it is simply easier to change the words and small things you don't like than keep asking the LLM to do it for you.
+Check the response one last time to make sure it’s easy to follow, correct, and complete. There will be a time when it is simply easier to change the words and small things you don't like than keep asking the LLM to do it for you.
 
 **It's totally on you (the person) to make sure the tool you are using is working correctly and that the output from it isn't used to cause harm.**
 
