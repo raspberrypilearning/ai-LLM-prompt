@@ -1,4 +1,4 @@
-## The OCEAN Prompting Process
+## The OCEAN prompting process
 
 <html>
 <br>
