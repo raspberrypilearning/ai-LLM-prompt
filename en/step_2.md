@@ -31,7 +31,7 @@ Start your prompt with an **Objective**, which should begin: I want help creatin
 --- /task ---
 
 ### Context
-Give background details to help the model understand your request. Include important information like length, who the audience is, tone, and specific facts you want to include.
+Give background details to help the model process your request. Include important information like length, who the audience is, tone, and specific facts you want to include.
 
 --- task ---
 
@@ -48,7 +48,7 @@ Show what kind of answers you’re looking for by providing **examples**. This h
 
 --- task ---
 
-Add examples to your prompt. 
+Add **Examples** to your prompt. 
 
 For example: 
 
@@ -86,7 +86,7 @@ For example:
  
 --- /task ---
 
-**Most important step: Human edit**  
+**Most important step: The human edit**  
 
 --- task ---
 
