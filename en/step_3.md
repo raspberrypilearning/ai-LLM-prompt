@@ -1,6 +1,6 @@
 ## The OCEAN prompting process: Personas
 
-Personas are like different roles or characters you can ask the language model to play. This shapes how it talks and interacts with you. For example, you might want the model to act like a friendly teacher, helpful friend, fictional character, or a historical figure and have a discussion with you, or help you explore some of your own ideas.
+Personas are like different roles or characters you can ask the language model to play. This shapes how it interacts with you. For example, you might want the model to act like a friendly teacher, helpful friend, fictional character, or a historical figure and have a discussion with you, or help you explore some of your own ideas.
 
 
 ### Objective
