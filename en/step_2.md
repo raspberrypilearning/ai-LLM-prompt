@@ -57,7 +57,7 @@ For example:
 --- /task ---
 
 ### Assess
-Even though it might seem like it, LLMs don't actually understand **anything** they write. LLMs just choose the **next best word** by predicting patterns in language. They're really just like fancy auto-complete. Sometimes they write things that are wrong or unfair, and **you** have to be careful they don't get you in trouble because you didn't check what it wrote properly.
+Even though it might seem like it, LLMs don't actually understand **anything** they output. LLMs just choose the **next best word** by predicting patterns in language. They're really just like fancy auto-complete. Sometimes they output things that are wrong or unfair, and **you** have to be careful they don't get you in trouble because you didn't check the output properly.
 
 --- task ---
  
