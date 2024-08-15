@@ -35,7 +35,7 @@ Before you begin, you'll need access to an LLM.
 If you are under the required age limits or prefer to host **your own** large language model on a Raspberry Pi, [follow our instructions here](https://projects.raspberrypi.org/en/projects/llm-rpi){:target="_blank"}.
 
 Other online tools are available, but require registration with a current email address. Some examples include:
-- [Google Gemini](https://google.gemini.com/){:target="_blank"} [(T&C: 13 years of age)](https://support.google.com/gemini/answer/13278668?hl=en-GB#zippy=%2Ccant-access-this-service:~:text=You%20must%20be%2013%20(or,a%20work%20or%20school%20account.){:target="_blank"}
+- [Google Gemini](https://google.gemini.com/){:target="_blank"} [(T&C: 13 years of age)](https://support.google.com/gemini/answer/13278668?hl=en-GB#zippy=%2Ccant-access-this-service:~:text=mobile%20app.-,What%20you%20need,-To%20use%20the){:target="_blank"}
 - [ChatGPT](https://www.chat.openai.org){:target="_blank"} [(T&C: 13 years of age)](https://help.openai.com/en/articles/8313401-is-chatgpt-safe-for-all-ages){:target="_blank"}
 
 **If you sign up for an account with one of these services, please remember to follow their safety policies.**
