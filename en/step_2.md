@@ -57,7 +57,7 @@ For example:
 --- /task ---
 
 ### Assess
-Even though it might seem like it, LLMs don't actually understand **anything** they output. LLMs just choose the **next best word** by predicting patterns in language. They're really just like fancy auto-complete. Sometimes they output things that are wrong or unfair, and **you** have to be careful they don't get you in trouble because you didn't check the output properly.
+Even though it might seem like it, LLMs don’t understand anything like humans do. Instead, LLMs just choose the **next best word** by predicting patterns in language. They're really just like fancy auto-complete. Sometimes they output things that are wrong or unfair, and **you** have to be careful they don't get you in trouble because you didn't check the output properly.
 
 --- task ---
  
@@ -74,7 +74,7 @@ For example:
 --- /task ---
 
 ### Negotiate  
-If the response isn’t quite right, ask the LLM to make changes. Be specific about what needs to be fixed. Treat the LLM like your assisstant who isn't very good at their job — check the work twice to make sure it's ok, then make sure the LLM corrects any mistakes or things you don't like. 
+If the response isn’t quite right, ask the LLM to make changes. Be specific about what needs to be fixed. Treat the LLM like a project partner who isn't very good — check the work twice to make sure it's ok, then make sure the LLM corrects any errors or things you don't like. 
 
 --- task ---
 
