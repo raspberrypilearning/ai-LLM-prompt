@@ -4,24 +4,19 @@ This learning resource is not recommended for learners below the age of 13. We e
 
 ## What you will make
 
-<html>
-    <iframe style="max-width: 448px;" width="100%" height="796" src="https://www.youtube.com/embed/hQ_lA_bxkCw?rel=0&cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-    </iframe>    
-</html>
+Welcome to the exciting world of large language models! 
+
+By following these steps, you will learn how to prompt a large language model (LLM) in a clear way, to get the best results from these powerful AI tools. 
 
 --- collapse ---
 ---
 title: No YouTube? Download the video!
 ---
 
-You can download all the resources for this project, including the above video [by clicking here](https://rpf.io/p/en/ai-LLM-prompt-go){:target="_blank"}. 
+You can download all the resources for this project [by clicking here](https://rpf.io/p/en/ai-LLM-prompt-go){:target="_blank"}. 
 
 
 --- /collapse ---
-
-Welcome to the exciting world of large language models! 
-
-By following these steps, you will learn how to prompt a large language model (LLM) in a clear way, to get the best results from these powerful AI tools. 
 
 --- collapse ---
 ---
