@@ -7,7 +7,7 @@ copyedit: false
 last_tested: "2022-05-19"
 steps:
   - 
-    title: Introduction
+    title: Einleitung
   - 
     title: Prompt an LLM
     completion:
@@ -17,6 +17,6 @@ steps:
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: Was kannst du jetzt tun?
     completion:
       - external
