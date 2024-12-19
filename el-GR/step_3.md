@@ -8,13 +8,13 @@ Decide what role you want the language model to take on. Write this in your prom
 
 <span style="color: red;">In the examples below, objective text is in red.</span>
 
-### Context
+### Συμφραζόμενα
 
 Give background details to help the model understand the role. Include specific information about how you want it to behave.
 
 <span style="color: blue;">In the examples below, context text is in blue.</span>
 
-### Examples
+### Παραδείγματα
 
 Show what kind of answers you’re looking for by providing **examples**. This helps the model get it right. You can give examples of things you definitely want included, or ways of speaking you have enjoyed.
 
@@ -50,7 +50,7 @@ Check if the response fits what you wanted. Look for mistakes or things that don
 
 \--- task ---
 
-For example:
+Για παράδειγμα:
 
 - Does the response sound like the role you described?
 - Is the tone friendly and funny (or whatever tone you asked for)?
@@ -67,7 +67,7 @@ If the response isn’t quite right, ask the LLM to make changes. Be specific ab
 
 Suggest changes and corrections to the LLM.
 
-For example:
+Για παράδειγμα:
 
 "This is helpful, but please include more motivational quotes and have a more friendly tone.
 "Use less complicated words and explain things like I'm a beginner."
