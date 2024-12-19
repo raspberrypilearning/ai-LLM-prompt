@@ -60,6 +60,7 @@ For example:
 Check if the response fits what you wanted. Look for mistakes or things that don't make sense.
 
 --- task ---
+
 For example:
 
 - Does the response sound like the role you described?
@@ -88,6 +89,7 @@ For example:
 Check the response one last time to make sure it’s easy to follow, correct, and complete. 
 
 --- task ---
+
 Check the response one last time to make sure it’s easy to follow, correct, and complete. 
 
 **It's totally on you (the person) to make sure the tool you are using is working correctly and that the output from it isn't used to cause harm.**
