@@ -1,6 +1,6 @@
-title: Prompt a large language model
+title: Geef aanwijzingen aan een groot taalmodel
 hero_image: images/banner.png
-description: Follow the OCEAN prompting process to create reliable, clear prompts that get what you want from an LLM every time!
+description: Volg het OCEAN-aanwijzingsproces om betrouwbare, duidelijke aanwijzingen te creëren die iedere keer weer voldoen aan jouw verwachtingen van een GTM (groot taal model)!
 version: 4
 listed: false
 copyedit: false
@@ -9,11 +9,11 @@ steps:
   - 
     title: Inleiding
   - 
-    title: Prompt an LLM
+    title: Geef prompts (aanwijzingen) aan een LLM (large language model)
     completion:
       - engaged
   - 
-    title: Set a persona for an LLM
+    title: Stel een persoonlijkheid in voor een LLM
     completion:
       - internal
   - 
