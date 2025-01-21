@@ -1,6 +1,6 @@
-title: Prompt a large language model
+title: Напиши запит для великої мовної моделі
 hero_image: images/banner.png
-description: Follow the OCEAN prompting process to create reliable, clear prompts that get what you want from an LLM every time!
+description: Використовуй цей метод, щоб створювати надійні, чіткі запити й щораз отримувати бажані результати від ВММ!
 version: 4
 listed: false
 copyedit: false
@@ -9,11 +9,11 @@ steps:
   - 
     title: Вступ
   - 
-    title: Prompt an LLM
+    title: Напиши запит для ВММ
     completion:
       - engaged
   - 
-    title: Set a persona for an LLM
+    title: Встанови персону для ВММ
     completion:
       - internal
   - 
