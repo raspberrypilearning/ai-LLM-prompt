@@ -1,88 +1,86 @@
-## The OCEAN prompting process: Personas
+## Як створити запит: персона
 
-Personas are like different roles or characters you can ask the language model to take on. This shapes how it interacts with you. For example, you might want the model to appear to be a friendly teacher, helpful friend, fictional character, or a historical figure and have a discussion with you, or help you explore some of your own ideas. Using a persona allows _every_ interaction with the LLM to be in a specific context which you set, not just the text it outputs.
+Персони — це різні ролі, які мовна модель може виконувати на твій запит. Це формує те, як вона з тобою взаємодіє. Наприклад, ти можеш попросити модель виконувати роль доброзичливого учителя, розумної подруги, вигаданого персонажа або історичної особи, щоб обговорити з тобою якусь ідею. Використання персони дозволяє _кожній_ взаємодії з ВММ мати встановлений тобою контекст, а не лише її відповідям.
 
-### Objective
+### Мета
 
-Decide what role you want the language model to take on. Write this in your prompt, clearly stating the role you want it to play.
+Виріши, яку роль має взяти на себе мовна модель. Напиши це у своєму запиті, чітко вказавши бажану роль.
 
-<span style="color: red;">In the examples below, objective text is in red.</span>
+<span style="color: red;">У наведених нижче прикладах мету виділено червоним кольором.</span>
 
 ### Контекст
 
-Give background details to help the model understand the role. Include specific information about how you want it to behave.
+Надай основну інформацію, щоб допомогти моделі зрозуміти роль. Це має бути конкретна інформація про те, як вона має поводитися.
 
-<span style="color: blue;">In the examples below, context text is in blue.</span>
+<span style="color: red;">У наведених нижче прикладах контекст виділено синім кольором.</span>
 
 ### Приклади
 
-Show what kind of answers you’re looking for by providing **examples**. This helps the model get it right. You can give examples of things you definitely want included, or ways of speaking you have enjoyed.
+Покажи за допомогою **прикладів**, які саме відповіді тобі потрібні. Це допоможе моделі дати правильну відповідь. Ти можеш навести приклади того, що ти точно хочеш включити, або способів мовлення, які тобі подобаються.
 
-<span style="color: green;"> In the examples below, examples are given in green.</span>
+<span style="color: green;"> У наведених нижче прикладах приклади позначено зеленим кольором.</span>
 
 \--- task ---
 
-For example: <span style="color: red;">"Behave as a supportive and encouraging coach</span> <span style="color: blue;"> who helps with studying for exams.</span> <span style="color: green;"> Give tips and motivational advice from inspiring people. For example: ‘Remember, every great achievement starts with the decision to try. You’ve got this!’"</span>
+Наприклад: <span style="color: red;">«Поводься, як тренер, що заохочує та підбадьорює мене</span> <span style="color: blue;"> та допомагає готуватися до іспитів.</span> <span style="color: green;"> Напиши мотиваційні поради від людей, що надихають інших. Наприклад: «Пам’ятай, що кожне велике досягнення починається з рішення спробувати. У тебе все вийде!»</span>
 
 \--- /task ---
 
 \--- task ---
 
-For example: <span style="color: red;">"Act as a wise and patient librarian</span> <span style="color: blue;"> who helps find interesting books and resources.</span> <span style="color: green;"> Recommend books based on genres I like. For example: ‘If you enjoy mysteries, you might love Agatha Christie’s novels. They are full of twists and turns!’"</span>
+Наприклад: <span style="color: red;">«Будь мудрим і терплячим бібліотекарем,</span> <span style="color: blue;"> який допомагає знайти цікаві книги та ресурси.</span> <span style="color: green;"> Порекомендуй книги у жанрах, які мені подобаються. Наприклад: «Якщо ти любиш читати детективи, тобі можуть сподобатися романи Агати Крісті. Вони сповнені захопливих сюжетних поворотів!»</span>
 
 \---/task---
 
 \--- task ---
 
-For example: <span style="color: red;">"Take on the role of an energetic fitness trainer</span> <span style="color: blue;"> who encourages a healthy lifestyle and daily exercise.</span> <span style="color: green;"> Provide workout routines and motivational quotes. For example: ‘Push yourself because no one else is going to do it for you. Let’s start with a quick warm-up!’"</span>
+Наприклад: <span style="color: red;">«Виконай роль енергійного тренера з фітнесу,</span> <span style="color: blue;"> який заохочує вести здоровий образ життя та щоденно займатися спортом.</span> <span style="color: green;"> Напиши план тренування та мотиваційні цитати. Наприклад: «Змушуй себе йти вперед, тому що ніхто інший не зробить це за тебе». Почнемо зі швидкої руханки!»</span>
 
 \---/task---
 
 \--- task ---
 
-For example: <span style="color: red;">"Pretend to be a knowledgeable tech guru</span> <span style="color: blue;"> who gives advice on using new gadgets and software.</span> <span style="color: green;"> Explain tech terms and concepts in an accessible way like a friendly robot assistant from a sci-fi movie."</span>
+Наприклад: <span style="color: red;">«Ти — експерт з технологій, що надзвичайно багато знає </span> <span style="color: blue;"> і дає поради щодо використання нових пристроїв та застосунків.</span> <span style="color: green;"> Поясни мені технічні терміни та поняття доступним чином, як дружній робот-помічник з фантастичного фільму».</span>
 
 \---/task---
 
-### Assess
+### Оцінка
 
-Check if the response fits what you wanted. Look for mistakes or things that don't make sense.
+Перевір, чи таку відповідь ти хотів/-ла. Подивися, чи є там помилки або щось незрозуміле.
 
 \--- task ---
 
 Наприклад:
 
-- Does the response sound like the role you described?
-- Is the tone friendly and funny (or whatever tone you asked for)?
-- Does it include the examples and details you mentioned?
-- Are there any parts of the text that are wrong or confusing?
+- Чи схожа відповідь на описану тобою роль?
+- Чи використовує модель дружній і жартівливий тон (або інший тон, який ти вказав/-ла)?
+- Чи містить відповідь приклади та деталі, які ти вказав/-ла?
+- Чи є в тексті помилки чи щось незрозуміле?
 
 \--- /task ---
 
-### Negotiate
+### Правки
 
-If the response isn’t quite right, ask the LLM to make changes. Be specific about what needs to be fixed.
+Якщо відповідь не зовсім правильна, попроси ВММ внести зміни. Точно вкажи, що потрібно змінити.
 
 \--- task ---
 
-Suggest changes and corrections to the LLM.
+Запропонуй ВММ внести зміни та правки.
 
 Наприклад:
 
-"This is helpful, but please include more motivational quotes and have a more friendly tone.
-"Use less complicated words and explain things like I'm a beginner."
-"Be more positive and constructive in your feedback."
+«Це корисна відповідь, але додай більше мотиваційних цитат і використовуй більш дружній тон.
+«Використовуй простіші слова та пояснюй речі так, ніби я новачок».
+«Зроби свої відгуки більш позитивними і конструктивними».
 
 \--- /task ---
 
-### Most important step: The human edit
-
-Check the response one last time to make sure it’s easy to follow, correct, and complete.
+### Найважливіший крок: редагування людиною
 
 \--- task ---
 
-Check the response one last time to make sure it’s easy to follow, correct, and complete.
+Перевір відповідь ще один раз, щоб переконатися, що її легко зрозуміти, виправити та доповнити.
 
-**It's totally on you (the person) to make sure the tool you are using is working correctly and that the output from it isn't used to cause harm.**
+**На тобі (людині) лежить повна відповідальність у тому, що інструмент, який ти використовуєш, працює належним чином і що його результат не використовується для заподіяння шкоди.**
 
 \--- /task ---
