@@ -1,88 +1,86 @@
-## The OCEAN prompting process: Personas
+## Het OCEAN-prompting proces: Persona's
 
-Personas are like different roles or characters you can ask the language model to take on. This shapes how it interacts with you. For example, you might want the model to appear to be a friendly teacher, helpful friend, fictional character, or a historical figure and have a discussion with you, or help you explore some of your own ideas. Using a persona allows _every_ interaction with the LLM to be in a specific context which you set, not just the text it outputs.
+Persona's zijn als verschillende rollen of personages die je het taalmodel kunt laten aannemen. Dit bepaalt hoe het met je communiceert. Je wilt bijvoorbeeld misschien dat het model overkomt als een vriendelijke leraar, behulpzame vriend, fictief personage of een historische figuur en dat het een gesprek met je aangaat of je helpt bij het verkennen van jouw eigen ideeën. Door een persona te gebruiken, kan _elke_ interactie met het LLM plaatsvinden in een specifieke context die je zelf instelt, en niet alleen de tekst die wordt weergegeven.
 
-### Objective
+### Doel
 
-Decide what role you want the language model to take on. Write this in your prompt, clearly stating the role you want it to play.
+Bepaal welke rol je wil dat het taalmodel vervult. Schrijf dit op in jouw prompt, met duidelijke vermelding van de rol die je wil dat het model speelt.
 
-<span style="color: red;">In the examples below, objective text is in red.</span>
+<span style="color: red;">In de onderstaande voorbeelden staat de doel tekst in het rood.</span>
 
 ### Context
 
-Give background details to help the model understand the role. Include specific information about how you want it to behave.
+Geef achtergrondinformatie zodat het model de rol beter begrijpt. Voeg specifieke informatie toe over hoe je wilt dat het werkt.
 
-<span style="color: blue;">In the examples below, context text is in blue.</span>
+<span style="color: blue;">In de onderstaande voorbeelden is de context tekst blauw.</span>
 
 ### Voorbeelden
 
-Show what kind of answers you’re looking for by providing **examples**. This helps the model get it right. You can give examples of things you definitely want included, or ways of speaking you have enjoyed.
+Geef aan naar wat voor soort antwoorden je op zoek bent door **voorbeelden** te geven. Dit helpt het model om het goed te doen. Je kunt voorbeelden geven van dingen die je absoluut wilt, of zegswijzen die je leuk vond.
 
-<span style="color: green;"> In the examples below, examples are given in green.</span>
+<span style="color: green;"> In de onderstaande voorbeelden worden voorbeelden in het groen weergegeven.</span>
 
 \--- task ---
 
-For example: <span style="color: red;">"Behave as a supportive and encouraging coach</span> <span style="color: blue;"> who helps with studying for exams.</span> <span style="color: green;"> Give tips and motivational advice from inspiring people. For example: ‘Remember, every great achievement starts with the decision to try. You’ve got this!’"</span>
+Bijvoorbeeld: <span style="color: red;">Gedraag je als een ondersteunende en aanmoedigende coach</span> <span style="color: blue;"> die helpt met studeren voor examens.</span> <span style="color: green;"> Geef tips en motiverend advies van inspirerende mensen. Bijvoorbeeld: 'Onthoud dat elke grote prestatie begint met de beslissing om het te proberen. 'Jij kunt dit!'"</span>
 
 \--- /task ---
 
 \--- task ---
 
-For example: <span style="color: red;">"Act as a wise and patient librarian</span> <span style="color: blue;"> who helps find interesting books and resources.</span> <span style="color: green;"> Recommend books based on genres I like. For example: ‘If you enjoy mysteries, you might love Agatha Christie’s novels. They are full of twists and turns!’"</span>
+Bijvoorbeeld: <span style="color: red;">"Fungeer als een wijze en geduldige bibliothecaris</span> <span style="color: blue;"> die helpt interessante boeken en bronnen te vinden.</span> <span style="color: green;"> Beveel boeken aan op basis van genres die ik leuk vind. Bijvoorbeeld: 'Als je van mysteries houdt, zul je de romans van Agatha Christie vast ook leuk vinden. Ze zitten vol met wendingen!'"</span>
 
 \---/task---
 
 \--- task ---
 
-For example: <span style="color: red;">"Take on the role of an energetic fitness trainer</span> <span style="color: blue;"> who encourages a healthy lifestyle and daily exercise.</span> <span style="color: green;"> Provide workout routines and motivational quotes. For example: ‘Push yourself because no one else is going to do it for you. Let’s start with a quick warm-up!’"</span>
+Bijvoorbeeld: <span style="color: red;">Neem de rol aan van een energieke fitnesstrainer</span> <span style="color: blue;"> die een gezonde levensstijl en dagelijkse lichaamsbeweging aanmoedigt.</span> <span style="color: green;"> Zorg voor trainingsroutines en motiverende citaten. Bijvoorbeeld: 'Dwing jezelf om door te zetten, want niemand anders zal dat voor je doen.'. Laten we beginnen met een snelle warming-up!'"</span>
 
 \---/task---
 
 \--- task ---
 
-For example: <span style="color: red;">"Pretend to be a knowledgeable tech guru</span> <span style="color: blue;"> who gives advice on using new gadgets and software.</span> <span style="color: green;"> Explain tech terms and concepts in an accessible way like a friendly robot assistant from a sci-fi movie."</span>
+Bijvoorbeeld: <span style="color: red;">"Doe alsof je een deskundige tech-goeroe bent</span> <span style="color: blue;"> die advies geeft over het gebruik van nieuwe gadgets en software.</span> <span style="color: green;"> Leg technische termen en concepten op een toegankelijke manier uit, als een vriendelijke robotassistent uit een sciencefictionfilm."</span>
 
 \---/task---
 
-### Assess
+### Beoordelen
 
-Check if the response fits what you wanted. Look for mistakes or things that don't make sense.
+Controleer of het antwoord past bij wat je wilde bereiken. Zoek naar fouten of dingen die niet logisch zijn.
 
 \--- task ---
 
 Bijvoorbeeld:
 
-- Does the response sound like the role you described?
-- Is the tone friendly and funny (or whatever tone you asked for)?
-- Does it include the examples and details you mentioned?
-- Are there any parts of the text that are wrong or confusing?
+- Lijkt het antwoord op de door jou beschreven rol?
+- Is de toon vriendelijk en grappig (of welke toon je ook hebt gevraagd)?
+- Bevat het de door jou genoemde voorbeelden en details?
+- Zijn er delen van de tekst die verkeerd of verwarrend zijn?
 
 \--- /task ---
 
-### Negotiate
+### Onderhandelen
 
-If the response isn’t quite right, ask the LLM to make changes. Be specific about what needs to be fixed.
+Als het antwoord niet helemaal klopt, vraag dan het LLM om wijzigingen aan te brengen. Wees specifiek over wat opgelost moet worden.
 
 \--- task ---
 
-Suggest changes and corrections to the LLM.
+Stel wijzigingen en correcties voor aan het LLM.
 
 Bijvoorbeeld:
 
-"This is helpful, but please include more motivational quotes and have a more friendly tone.
-"Use less complicated words and explain things like I'm a beginner."
-"Be more positive and constructive in your feedback."
+"Dit is nuttig, maar voeg alsjeblieft meer motiverende quotes toe en zorg voor een vriendelijkere toon.
+"Gebruik eenvoudige woorden en leg dingen uit alsof ik een beginner ben."
+"Wees positiever en constructiever in je feedback."
 
 \--- /task ---
 
-### Most important step: The human edit
-
-Check the response one last time to make sure it’s easy to follow, correct, and complete.
+### De belangrijkste stap: De menselijke bewerking
 
 \--- task ---
 
-Check the response one last time to make sure it’s easy to follow, correct, and complete.
+Controleer het antwoord nog een laatste keer om er zeker van te zijn dat het gemakkelijk te volgen, correct en compleet is.
 
-**It's totally on you (the person) to make sure the tool you are using is working correctly and that the output from it isn't used to cause harm.**
+**Het is jouw verantwoordelijkheid om ervoor te zorgen dat de tool die je gebruikt correct werkt en dat de uitvoer ervan niet wordt gebruikt om schade te veroorzaken.**
 
 \--- /task ---
