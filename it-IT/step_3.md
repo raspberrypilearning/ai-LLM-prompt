@@ -77,8 +77,6 @@ Ad esempio:
 
 ### Most important step: The human edit
 
-Check the response one last time to make sure it’s easy to follow, correct, and complete.
-
 \--- task ---
 
 Check the response one last time to make sure it’s easy to follow, correct, and complete.
