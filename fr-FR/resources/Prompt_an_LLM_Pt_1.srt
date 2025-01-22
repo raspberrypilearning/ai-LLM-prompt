@@ -1,102 +1,102 @@
 1
 00:00:02,800 --> 00:00:06,200
-Let's make great prompts with the OCEAN process!
+Faisons de belles commandes avec le processus OCEAN !
 
 2
 00:00:06,200 --> 00:00:10,800
-O is for Objective. Set a clear goal!
-Whether you're explaining a topic or  
+O pour Objectif. Définis un objectif clair !
+Que tu expliques un sujet ou  
 
 3
 00:00:10,800 --> 00:00:16,160
-writing a story, defining what you want helps 
-the model deliver exactly what you need. 
+écris une histoire, définir ce que tu souhaites aide 
+le modèle à produire exactement ce dont tu as besoin. 
 
 4
 00:00:16,160 --> 00:00:19,480
-For example, start with, 'I 
-want to explain what climate  
+Par exemple, tout d'abord, « Je 
+veut expliquer ce qu'est le changement  
 
 5
 00:00:19,480 --> 00:00:24,080
-change is.' This sets a basic 
-goal for the model to follow.
+climatique. » Ceci définit un objectif 
+de base pour le modèle à suivre.
 
 6
 00:00:24,080 --> 00:00:31,200
-C is for Context. Give the model all the 
-background info: audience, style, key details. 
+C pour Contexte. Donne au modèle toutes les 
+infos : public, style, détails clés. 
 
 7
 00:00:31,200 --> 00:00:36,120
-You could expand the prompt to 'Explain what 
-climate change is, to middle school students,  
+Tu peux étendre le prompt à « Explique ce qu'est 
+le changement climatique aux élèves du collège,  
 
 8
 00:00:36,120 --> 00:00:42,120
-in a friendly and simple way.' Which 
-helps set the appropriate style and tone.
+de façon simple et amicale. » Lequel 
+aide à définir le style et le ton appropriés.
 
 9
 00:00:42,120 --> 00:00:48,080
-E is for examples. Give the model examples 
-you like to guide the model's output. 
+E pour Exemples. Donne au modèle des exemples 
+que tu souhaites pour orienter la sortie du modèle. 
 
 10
 00:00:48,080 --> 00:00:53,160
-For instance, you might provide links or describe 
-other educational videos that explain science  
+Par exemple, tu peux fournir des liens ou décrire 
+d'autres vidéos éducatives qui expliquent les sujets  
 
 11
 00:00:53,160 --> 00:00:58,160
-topics simply and engagingly, helping the 
-model understand the desired output style.
+scientifiques de façon simple et engagée, en aidant le 
+modèle à comprendre le style de sortie souhaité.
 
 12
 00:00:58,160 --> 00:01:02,480
-A is for Assess. Assess the output from the model. 
+A pour Évaluer. Évalue les résultats du modèle. 
 
 13
 00:01:02,480 --> 00:01:09,080
-Does it match your goal? Check for clarity, 
-relevance and any unfairness. For example,  
+Est-ce que cela correspond à ton objectif ? Vérifie la clarté, 
+la pertinence et l'absence d'injustice. Par exemple,  
 
 14
 00:01:09,080 --> 00:01:15,640
-ask 'Is this easy to understand?' and 'Does it 
-cover what I needed?' to ensure it's on point.
+demande-toi « Est-ce facile à comprendre ? » et « Est-ce que 
+cela couvre ce dont j'ai besoin ? » pour t'assurer que c'est pertinent.
 
 15
 00:01:15,640 --> 00:01:20,120
-N is for Negotiate. If it's 
-not perfect - negotiate. 
+N pour Négocier. Si c'est 
+pas parfait, négocie. 
 
 16
 00:01:20,120 --> 00:01:22,560
-Improve the output by giving the model clear,  
+Améliore la sortie en donnant au modèle une clarté,  
 
 17
 00:01:22,560 --> 00:01:26,240
-honest feedback to make the 
-output closer to what you want. 
+des commentaires honnêtes pour rendre la 
+sortie plus proche de ce que tu veux. 
 
 18
 00:01:26,240 --> 00:01:29,920
-Once it's pretty close, the rest 
-is up to you... the human editor.
+Une fois que c'est assez proche, le reste 
+dépend de toi... l'éditeur humain.
 
 19
 00:01:32,640 --> 00:01:37,280
-Finally, go through and edit the work yourself. 
-The model has done the heavy lifting,  
+Enfin, parcoure et modifie le travail toi-même. 
+Le modèle a fait le gros du travail,  
 
 20
 00:01:37,280 --> 00:01:41,920
-but your final and unique touch 
-ensures quality and accuracy.
+mais ta touche finale et unique 
+garantit la qualité et la précision.
 
 21
 00:01:41,920 --> 00:01:47,480
-Any work you say is yours, 
-should actually be your work!
+Tout travail que tu dis être le tien 
+doit réellement l’être !
 
