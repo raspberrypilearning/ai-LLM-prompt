@@ -2,7 +2,7 @@ title: Напиши запит для великої мовної моделі
 hero_image: images/banner.png
 description: Використовуй цей метод, щоб створювати надійні, чіткі запити й щораз отримувати бажані результати від ВММ!
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2022-05-19"
 steps:
@@ -16,7 +16,7 @@ steps:
     title: Встанови персону для ВММ
     completion:
       - internal
+      - external
   - 
     title: Що ти тепер вмієш?
     completion:
-      - external
