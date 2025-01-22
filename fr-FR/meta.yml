@@ -2,7 +2,7 @@ title: Donner un prompt à un grand modèle de langage
 hero_image: images/banner.png
 description: Suis le processus de prompting OCEAN pour créer des prompts fiables et claires qui te donneront toujours ce que tu veux d'un LLM !
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2022-05-19"
 steps:
@@ -16,7 +16,7 @@ steps:
     title: Définir un persona pour un LLM
     completion:
       - internal
+      - external
   - 
     title: Que peux-tu faire maintenant ?
     completion:
-      - external
