@@ -16,7 +16,7 @@ steps:
     title: Définir un persona pour un LLM
     completion:
       - internal
-      - external
   - 
     title: Que peux-tu faire maintenant ?
     completion:
+      - external
