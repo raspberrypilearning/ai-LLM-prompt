@@ -16,7 +16,7 @@ steps:
     title: Встанови персону для ВММ
     completion:
       - internal
-      - external
   - 
     title: Що ти тепер вмієш?
     completion:
+      - external
