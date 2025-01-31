@@ -16,7 +16,7 @@ steps:
     title: Set a persona for an LLM
     completion:
       - internal
-      - external
   - 
     title: Αναστοχασμός
     completion:
+      - external
