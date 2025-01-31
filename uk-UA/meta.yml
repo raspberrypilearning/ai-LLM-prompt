@@ -1,0 +1,19 @@
+---
+title: Напиши запит для великої мовної моделі
+hero_image: images/banner.png
+description: Використовуй цей метод, щоб створювати надійні, чіткі запити й щораз отримувати бажані результати від ВММ!
+version: 4
+listed: true
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Вступ
+  - title: Напиши запит для ВММ
+    completion:
+      - engaged
+  - title: Встанови персону для ВММ
+    completion:
+      - internal
+  - title: Що ти тепер вмієш?
+    completion:
+      - external

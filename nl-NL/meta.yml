@@ -1,0 +1,19 @@
+---
+title: Geef aanwijzingen aan een groot taalmodel
+hero_image: images/banner.png
+description: Volg het OCEAN-aanwijzingsproces om betrouwbare, duidelijke aanwijzingen te creëren die iedere keer weer voldoen aan jouw verwachtingen van een GTM (groot taal model)!
+version: 4
+listed: true
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Inleiding
+  - title: Geef prompts (aanwijzingen) aan een LLM (large language model)
+    completion:
+      - engaged
+  - title: Stel een persoonlijkheid in voor een LLM
+    completion:
+      - internal
+  - title: Wat kun je nu doen?
+    completion:
+      - external
