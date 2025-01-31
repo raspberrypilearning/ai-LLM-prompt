@@ -33,7 +33,7 @@ Avant de commencer, tu devras accéder à un LLM.
 Si tu n'as pas l'âge requis ou si tu préfères héberger **ton propre** grand modèle de langage sur un Raspberry Pi, [suis nos instructions ici](https://projects.raspberrypi.org/fr-FR/projects/llm-rpi){:target="_blank"}.
 
 D'autres outils en ligne sont disponibles, mais nécessitent une inscription avec une adresse e-mail actuelle. En voici quelques exemples :
-- [Google Gemini](https://gemini.google.com/){:target="_blank"} [(Conditions d'utilisation : 13 ans)](https://support.google.com/gemini/answer/13278668?hl=en-GB#zippy=%2Ccant-access-this-service:~:text=mobile%20app.-,What%20you%20need,-To%20use%20the){:target="_blank"}
+- [Google Gemini](https://gemini.google.com/){:target="_blank"} [(Conditions d'utilisation : 13 ans)](https://support.google.com/gemini/answer/13278668?hl=fr#zippy=%2Ccant-access-this-service:~:text=mobile%20app.-,What%20you%20need,-To%20use%20the){:target="_blank"}
 - [ChatGPT](https://www.chat.openai.org){:target="_blank"} [(Conditions d'utilisation : 13 ans)](https://help.openai.com/fr-FR/articles/8313401-is-chatgpt-safe-for-all-ages){:target="_blank"}
 
 **Si tu as un compte avec l'un de ces services, n'oublie pas de suivre leurs politiques de sécurité.**
@@ -45,7 +45,7 @@ title: Pourquoi recommandons-nous aux apprenants plus âgés d’utiliser cette 
 
 Si tu as moins de 13 ans, il est important de comprendre comment protéger tes informations personnelles. La Raspberry Pi Foundation est très attentive à la protection de tes données et de ta vie privée.
 
-Lorsque tu utiliseras des projets d'IA générative sur un Raspberry Pi, tout le travail s'effectue directement sur ton appareil. \*\*Tes données personnelles restent sur ton ordinateur et ne le quittent jamais.
+Lorsque tu utiliseras des projets d'IA générative sur un Raspberry Pi, tout le travail s'effectue directement sur ton appareil. **Tes données personnelles restent sur ton ordinateur et n'en sortent jamais**, ce qui garantit la sécurité de tes informations.
 
 Tu as peut-être remarqué que de nombreux services en ligne demandent aux utilisateurs d’avoir au moins 13 ans. C'est parce qu’ils traitent et stockent les données que tu fournis, qui peuvent inclure des informations personnelles. Même si ces services suivent des règles strictes pour protéger tes données, l'envoi d'informations sur Internet peut parfois être moins sécurisé.
 

@@ -43,7 +43,7 @@ Bijvoorbeeld:
 Bijvoorbeeld:
 <span style="color: red;">Neem de rol aan van een energieke fitnesstrainer</span>
 <span style="color: blue;"> die een gezonde levensstijl en dagelijkse lichaamsbeweging aanmoedigt.</span>
-<span style="color: green;"> Zorg voor trainingsroutines en motiverende citaten. Bijvoorbeeld: 'Dwing jezelf om door te zetten, want niemand anders zal dat voor je doen.'. Laten we beginnen met een snelle warming-up!'"</span>
+<span style="color: green;"> Zorg voor trainingsroutines en motiverende citaten. Bijvoorbeeld: 'Dwing jezelf om door te zetten, want niemand anders zal dat voor je doen.' Laten we beginnen met een snelle warming-up!'"</span>
 
 ---/task---
 
@@ -81,7 +81,7 @@ Stel wijzigingen en correcties voor aan het LLM.
 
 Bijvoorbeeld:
 
-"Dit is nuttig, maar voeg alsjeblieft meer motiverende quotes toe en zorg voor een vriendelijkere toon.
+"Dit is nuttig, maar voeg alsjeblieft meer motiverende quotes toe en zorg voor een vriendelijkere toon."
 "Gebruik eenvoudige woorden en leg dingen uit alsof ik een beginner ben."
 "Wees positiever en constructiever in je feedback."
 

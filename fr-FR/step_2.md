@@ -36,7 +36,7 @@ Donne du **Contexte** à ton prompt.
 
 Par exemple :
 
-« Je veux de l'aide pour créer une recette pour un simple dessert. **Fais en sorte que la recette soit facile à suivre pour les enfants, avec des ingrédients que l'on peut trouver à la maison.**"
+« Je veux de l'aide pour créer une recette pour un simple dessert. **Fais en sorte que la recette soit facile à suivre pour les enfants, avec des ingrédients que l'on peut trouver à la maison.** »
 
 --- /task ---
 
