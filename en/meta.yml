@@ -14,6 +14,5 @@ steps:
     completion:
     - internal
   - title: What can you do now?
-    completion:
     completion: 
     - external

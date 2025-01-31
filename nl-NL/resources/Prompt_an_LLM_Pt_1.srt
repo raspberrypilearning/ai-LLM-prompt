@@ -1,0 +1,102 @@
+1
+00:00:02,800 --> 00:00:06,200
+Laten we geweldige opdrachten maken met het OCEAN-proces!
+
+2
+00:00:06,200 --> 00:00:10,800
+O staat voor Objectief. Stel een duidelijk doel!
+Of je nu een onderwerp uitlegt of
+
+3
+00:00:10,800 --> 00:00:16,160
+een verhaal schrijft, het definiëren van wat je wilt helpt
+het model om precies te leveren wat je nodig hebt
+
+4
+00:00:16,160 --> 00:00:19,480
+Begin bijvoorbeeld met: 'Ik
+wil uitleggen wat klimaat
+
+5
+00:00:19,480 --> 00:00:24,080
+verandering is.' Hiermee wordt een basisdoel
+gesteld dat het model moet volgen.
+
+6
+00:00:24,080 --> 00:00:31,200
+C staat voor Context. Geef het model alle
+achtergrondinfo: doelgroep, stijl, belangrijkste details
+
+7
+00:00:31,200 --> 00:00:36,120
+Je zou de opdracht kunnen uitbreiden naar 'Leg uit wat
+klimaatverandering is' voor middelbare scholieren,
+
+8
+00:00:36,120 --> 00:00:42,120
+op een vriendelijke en eenvoudige manier.' Wat
+helpt om de juiste stijl en toon te bepalen.
+
+9
+00:00:42,120 --> 00:00:48,080
+E staat voor examples (voorbeelden). Geef het model voorbeelden
+die je wil gebruiken om de uitvoer van het model te begeleiden
+
+10
+00:00:48,080 --> 00:00:53,160
+Je kunt bijvoorbeeld links verstrekken of
+andere educatieve video's beschrijven die wetenschappelijke onderwerpen
+
+11
+00:00:53,160 --> 00:00:58,160
+eenvoudig en boeiend weergeven, waardoor het
+model de gewenste uitvoerstijl beter begrijpt.
+
+12
+00:00:58,160 --> 00:01:02,480
+A staat voor Assess (beoordeel). Beoordeel de uitvoer van het model
+
+13
+00:01:02,480 --> 00:01:09,080
+Past het bij je doel? Controleer op duidelijkheid, 
+relevantie en eventuele oneerlijkheid. Bijvoorbeeld,
+
+14
+00:01:09,080 --> 00:01:15,640
+vraag 'Is dit makkelijk te begrijpen?' en 'Bevat dit
+wat ik nodig heb?' om er zeker van te zijn dat het ter zake doet.
+
+15
+00:01:15,640 --> 00:01:20,120
+N staat voor Negotiate (onderhandel). Als het
+niet perfect is - onderhandelen
+
+16
+00:01:20,120 --> 00:01:22,560
+Verbeter de uitvoer door het model duidelijke,
+
+17
+00:01:22,560 --> 00:01:26,240
+eerlijke feedback te geven om de
+uitvoer dichter bij jouw wensen te brengen
+
+18
+00:01:26,240 --> 00:01:29,920
+Als het bijna goed is, is de rest
+aan jou... de menselijke editor.
+
+19
+00:01:32,640 --> 00:01:37,280
+Ga ten slotte zelf door het werk heen en bewerk het.
+Het model heeft het zware werk gedaan,
+
+20
+00:01:37,280 --> 00:01:41,920
+maar jouw laatste en unieke touch
+zorgt voor kwaliteit en nauwkeurigheid.
+
+21
+00:01:41,920 --> 00:01:47,480
+Elk werk waarvan je zegt dat het van jou is,
+zou eigenlijk jouw eigen werk moeten zijn!
+
