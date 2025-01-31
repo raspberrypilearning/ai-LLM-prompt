@@ -16,7 +16,7 @@ steps:
     title: Set a persona for an LLM
     completion:
       - internal
-      - external
   - 
     title: What can you do now?
     completion:
+      - external
