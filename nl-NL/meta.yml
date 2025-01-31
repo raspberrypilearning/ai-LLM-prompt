@@ -16,7 +16,7 @@ steps:
     title: Stel een persoonlijkheid in voor een LLM
     completion:
       - internal
-      - external
   - 
     title: Wat kun je nu doen?
     completion:
+      - external
