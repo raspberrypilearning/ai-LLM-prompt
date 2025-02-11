@@ -13,7 +13,7 @@ Door deze stappen te volgen, leer je hoe je een groot taalmodel (LLM) op een dui
 title: Geen YouTube? Download de video!
 ---
 
-Je kunt alle hulpmiddelen voor dit project downloaden [door hier te klikken](https://rpf.io/p/nl-NL/ai-LM-prompt-go){:target="_blank"}.
+Je kunt alle hulpmiddelen voor dit project downloaden [door hier te klikken](https://rpf.io/p/nl-NL/ai-LMM-prompt-go){:target="_blank"}.
 
 --- /collapse ---
 
