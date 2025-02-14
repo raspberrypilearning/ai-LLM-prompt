@@ -22,7 +22,7 @@ Je kunt alle hulpmiddelen voor dit project downloaden [door hier te klikken](htt
 title: Meer details
 ---
 
-Deze handleiding helpt je met een eenvoudig idee te beginnen en het om te zetten in een gedetailleerde prompt (aanwijzing) die betrouwbare tekst van een LLM zal produceren. Door het OCEAN-proces te volgen, leer je hoe je een prompt bouwt met een duidelijk **D**oel, **C**ontext en **V**oorbeelden, vervolgens kun je de uitvoer van het LLM **A**nalyseren en **O**onderhandelen totdat de uitvoer overeenkomt met jouw oorspronkelijke idee.
+Deze handleiding helpt je met een eenvoudig idee te beginnen en het om te zetten in een gedetailleerde prompt (aanwijzing) die betrouwbare tekst van een LLM zal produceren. Door het OCEAN-proces te volgen, leer je hoe je een prompt bouwt met een duidelijk **D**oel, **C**ontext en **V**oorbeelden, vervolgens kun je de uitvoer van het LLM **B**eoordelen en **O**nderhandelen totdat de uitvoer overeenkomt met jouw oorspronkelijke idee.
 
 --- /collapse ---
 
@@ -32,7 +32,7 @@ Voordat je begint, heb je toegang nodig tot een LLM.
 Als je niet voldoet aan de minimum leeftijdsgrenzen of liever **je eigen** grote taalmodel host op een Raspberry Pi, [volg dan hier onze instructies](https://projects.raspberrypi.org/nl-NL/projects/llm-rpi){:target="_blank"}.
 
 Er zijn ook andere online tools beschikbaar, maar hiervoor is registratie met een actueel e-mailadres vereist. Enkele voorbeelden zijn:
-- [Google Gemini](https://gemini.google.com/){:target="_blank"} [(Algemene voorwaarden:13 jaar en ouder)](https://support.google.com/gemini/answer/13278668?hl=nl-NL#zippy=%2Ccant-access-this-service:~:text=mobile%20app.-,What%20you%20need,-To%20use%20the){:target="_blank"}
+- [Google Gemini](https://gemini.google.com/){:target="_blank"} [(Algemene voorwaarden: 13 jaar en ouder)](https://support.google.com/gemini/answer/13278668?hl=nl-NL#zippy=%2Ccant-access-this-service:~:text=mobile%20app.-,What%20you%20need,-To%20use%20the){:target="_blank"}
 - [ChatGPT](https://www.chat.openai.org){:target="_blank"} [(Algemene voorwaarden: 13 jaar)](https://help.openai.com/en/articles/8313401-is-chatgpt-safe-for-all-ages){:target="_blank"}
 
 **Als je je registreert voor een account bij een van deze diensten, vergeet dan niet om hun veiligheidsbeleid te volgen.**
@@ -46,7 +46,7 @@ Als je jonger dan 13 jaar bent, is het belangrijk om te begrijpen hoe je je pers
 
 Wanneer je generatieve AI-projecten gebruikt op een Raspberry Pi, gebeurt al het werk op je apparaat. **Jouw persoonlijke gegevens blijven op je computer staan en verlaten deze nooit.** Zo blijven je gegevens veilig en beschermd.
 
-Je heeft misschien gemerkt dat veel onlinediensten vereisen dat gebruikers minimaal 13 jaar oud zijn. Dat komt omdat zij de door jou verstrekte gegevens, waaronder ook persoonlijke gegevens, verwerken en opslaan. Hoewel deze diensten strikte regels hanteren om jouw gegevens te beschermen, kan het versturen van informatie via internet soms minder veilig zijn.
+Je hebt misschien gemerkt dat veel onlinediensten vereisen dat gebruikers minimaal 13 jaar oud zijn. Dat komt omdat zij de door jou verstrekte gegevens, waaronder ook persoonlijke gegevens, verwerken en opslaan. Hoewel deze diensten strikte regels hanteren om jouw gegevens te beschermen, kan het versturen van informatie via internet soms minder veilig zijn.
 
 **Met de Raspberry Pi blijft alles op je eigen apparaat,** zodat je je geen zorgen hoeft te maken over dat je data ergens anders naar toe wordt verzonden. Hiermee kun je AI veilig verkennen en erover leren. Als je hulp nodig hebt, vraag dan een ouder, verzorger of leerkracht om je te begeleiden.
 
