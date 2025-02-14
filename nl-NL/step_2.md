@@ -57,7 +57,7 @@ Bijvoorbeeld:
 
 ### Beoordelen
 
-Ook al lijkt het misschien zo, LLM's begrijpen helemaal niets van wat mensen doen. In plaats daarvan kiezen LLMs gewoon het **beste woord** door patronen in taal te voorspellen. Eigenlijk zijn het gewoon geavanceerde automatische aanvullingen. Soms geven ze dingen weer die verkeerd of onjuist zijn, en **jij** moet ervoor zorgen dat je niet in de problemen komt omdat je de resultaten niet goed hebt gecontroleerd.
+Ook al lijkt het misschien zo, LLM's begrijpen helemaal niets van wat mensen doen. In plaats daarvan kiezen LLMs gewoon het **beste volgende woord** door patronen in taal te voorspellen. Eigenlijk zijn het gewoon geavanceerde automatische aanvullingen. Soms geven ze dingen weer die verkeerd of onjuist zijn, en **jij** moet ervoor zorgen dat je niet in de problemen komt omdat je de resultaten niet goed hebt gecontroleerd.
 
 --- task ---
 
