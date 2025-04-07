@@ -1,3 +1,3 @@
-## Αναστοχασμός
+## Τι μπορείς να κάνεις τώρα;
 
-There are lots of other machine learning and AI projects in the [artificial intelligence](https://projects.raspberrypi.org/en/pathways/ai-toolkit) toolkit.
+Υπάρχουν πολλά άλλα έργα μηχανικής μάθησης και τεχνητής νοημοσύνης στην εργαλειοθήκη [τεχνητή νοημοσύνη](https://projects.raspberrypi.org/en/pathways/ai-toolkit).
