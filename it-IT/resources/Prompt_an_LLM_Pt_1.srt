@@ -1,102 +1,98 @@
 1
 00:00:02,800 --> 00:00:06,200
-Let's make great prompts with the OCEAN process!
+Realizziamo fantastici suggerimenti con il processo OCEAN!
 
 2
 00:00:06,200 --> 00:00:10,800
-O is for Objective. Set a clear goal!
-Whether you're explaining a topic or  
+O sta per Obiettivo. Stabilisci un obiettivo chiaro!
+Che tu stia spiegando un argomento o
 
 3
 00:00:10,800 --> 00:00:16,160
-writing a story, defining what you want helps 
-the model deliver exactly what you need. 
+scrivendo una storia, definendo ciò che vuoi aiuti
+il modello a fornire esattamente ciò di cui hai bisogno.
 
 4
 00:00:16,160 --> 00:00:19,480
-For example, start with, 'I 
-want to explain what climate  
+Per esempio, iniziate con, 'Voglio spiegare che cosa
 
 5
 00:00:19,480 --> 00:00:24,080
-change is.' This sets a basic 
-goal for the model to follow.
+è il cambiamento climatico.' Questo imposta un obiettivo di base
+per il modello da seguire.
 
 6
 00:00:24,080 --> 00:00:31,200
-C is for Context. Give the model all the 
-background info: audience, style, key details. 
+C sta per Contesto. Fornisci al modello tutte le
+informazioni di base: pubblico, stile, dettagli chiave.
 
 7
 00:00:31,200 --> 00:00:36,120
-You could expand the prompt to 'Explain what 
-climate change is, to middle school students,  
+Potresti ampliare il prompt in "Spiega cos'è il cambiamento climatico, agli studenti delle scuole medie,
 
 8
 00:00:36,120 --> 00:00:42,120
-in a friendly and simple way.' Which 
-helps set the appropriate style and tone.
+in modo semplice e amichevole." Il che
+aiuta a impostare lo stile e il tono appropriati.
 
 9
 00:00:42,120 --> 00:00:48,080
-E is for examples. Give the model examples 
-you like to guide the model's output. 
+E sta per esempi. Fornisci al modello gli esempi
+che preferisci per guidare l'output del modello.
 
 10
 00:00:48,080 --> 00:00:53,160
-For instance, you might provide links or describe 
-other educational videos that explain science  
+Ad esempio, potresti fornire link o descrivere
+altri video educativi che spiegano la scienza
 
 11
 00:00:53,160 --> 00:00:58,160
-topics simply and engagingly, helping the 
-model understand the desired output style.
+e gli argomenti in modo semplice e coinvolgente, aiutando il modello a comprendere lo stile di output desiderato.
 
 12
 00:00:58,160 --> 00:01:02,480
-A is for Assess. Assess the output from the model. 
+A sta per Valutare. Valutare l'output del modello.
 
 13
 00:01:02,480 --> 00:01:09,080
-Does it match your goal? Check for clarity, 
-relevance and any unfairness. For example,  
+Corrisponde al tuo obiettivo? Controlla la chiarezza, la pertinenza di
+e qualsiasi ingiustizia. Ad esempio,
 
 14
 00:01:09,080 --> 00:01:15,640
-ask 'Is this easy to understand?' and 'Does it 
-cover what I needed?' to ensure it's on point.
+chiediti "È facile da capire?" e "copre ciò di cui avevo bisogno?" per assicurarti che sia pertinente.
 
 15
 00:01:15,640 --> 00:01:20,120
-N is for Negotiate. If it's 
-not perfect - negotiate. 
+N sta per Negoziare. Se è
+non perfetto - negozia.
 
 16
 00:01:20,120 --> 00:01:22,560
-Improve the output by giving the model clear,  
+Migliora l'output rendendo il modello chiaro,
 
 17
 00:01:22,560 --> 00:01:26,240
-honest feedback to make the 
-output closer to what you want. 
+feedback sinceri per rendere l'output
+più vicino a ciò che desideri.
 
 18
 00:01:26,240 --> 00:01:29,920
-Once it's pretty close, the rest 
-is up to you... the human editor.
+Una volta che ci si è avvicinati abbastanza, il resto
+dipende da te... l'editor umano.
 
 19
 00:01:32,640 --> 00:01:37,280
-Finally, go through and edit the work yourself. 
-The model has done the heavy lifting,  
+Infine, rivedi e modifica tu stesso il lavoro.
+Il modello ha fatto il lavoro pesante,
 
 20
 00:01:37,280 --> 00:01:41,920
-but your final and unique touch 
-ensures quality and accuracy.
+ma il tuo tocco finale e unico garantisce qualità e precisione.
+
 
 21
 00:01:41,920 --> 00:01:47,480
-Any work you say is yours, 
-should actually be your work!
+Qualsiasi lavoro tu dica essere tuo,
+dovrebbe in realtà essere tuo!
 
