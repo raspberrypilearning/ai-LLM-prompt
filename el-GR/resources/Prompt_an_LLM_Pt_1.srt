@@ -1,102 +1,102 @@
 1
 00:00:02,800 --> 00:00:06,200
-Let's make great prompts with the OCEAN process!
+Ας κάνουμε αποτελεσματικές προτροπές με τη διαδικασία OCEAN (ΣΠΠΑΔ)!
 
 2
 00:00:06,200 --> 00:00:10,800
-O is for Objective. Set a clear goal!
-Whether you're explaining a topic or  
+Το O (Objective) είναι για τον Στόχο (Σ). Βάλε έναν ξεκάθαρο στόχο!
+Είτε εξηγείς ένα θέμα είτε
 
 3
 00:00:10,800 --> 00:00:16,160
-writing a story, defining what you want helps 
-the model deliver exactly what you need. 
+συντάσσεις μια ιστορία, το να καθορίσεις του τι θέλεις βοηθάει
+το μοντέλο να προσφέρει ακριβώς αυτό που χρειάζεσαι.
 
 4
 00:00:16,160 --> 00:00:19,480
-For example, start with, 'I 
-want to explain what climate  
+Για παράδειγμα, ξεκίνησε με το '
+Θέλω να εξηγήσω τι είναι κλιματική
 
 5
 00:00:19,480 --> 00:00:24,080
-change is.' This sets a basic 
-goal for the model to follow.
+αλλαγή.' Αυτό θέτει έναν βασικό
+στόχο που θα ακολουθήσει το μοντέλο.
 
 6
 00:00:24,080 --> 00:00:31,200
-C is for Context. Give the model all the 
-background info: audience, style, key details. 
+Το C (Context) είναι για το Πλαίσιο (Π). Δώσε στο μοντέλο όλες τις
+πληροφορίες: κοινό, στυλ, βασικές λεπτομέρειες.
 
 7
 00:00:31,200 --> 00:00:36,120
-You could expand the prompt to 'Explain what 
-climate change is, to middle school students,  
+Θα μπορούσες να επεκτείνεις την προτροπή σε «Εξήγησε τι είναι
+η κλιματική αλλαγή, σε μαθητές/ριες γυμνασίου,
 
 8
 00:00:36,120 --> 00:00:42,120
-in a friendly and simple way.' Which 
-helps set the appropriate style and tone.
+με φιλικό και απλό τρόπο». Το οποίο
+βοηθά στον καθορισμό του κατάλληλου στυλ και τόνου.
 
 9
 00:00:42,120 --> 00:00:48,080
-E is for examples. Give the model examples 
-you like to guide the model's output. 
+Το Ε (examples) είναι για Παράδειγμα (Π). Δώσε στο μοντέλο τα παραδείγματα 
+που σου αρέσουν για να καθοδηγήσουν την έξοδο του μοντέλου.
 
 10
 00:00:48,080 --> 00:00:53,160
-For instance, you might provide links or describe 
-other educational videos that explain science  
+Για παράδειγμα, μπορείς να παρέχες συνδέσμους ή να να περιγράψεις
+άλλα εκπαιδευτικά βίντεο που εξηγούν επιστημονικά
 
 11
 00:00:53,160 --> 00:00:58,160
-topics simply and engagingly, helping the 
-model understand the desired output style.
+θέματα απλά και ελκυστικά, βοηθώντας το μοντέλο
+να κατανοήσει το επιθυμητό στυλ εξόδου.
 
 12
 00:00:58,160 --> 00:01:02,480
-A is for Assess. Assess the output from the model. 
+Το Α (Assess) είναι για Αξιολόγηση (Α). Αξιολόγησε την έξοδο από το μοντέλο.
 
 13
 00:01:02,480 --> 00:01:09,080
-Does it match your goal? Check for clarity, 
-relevance and any unfairness. For example,  
+Ταιριάζει με τον στόχο σου; Έλεγξε για σαφήνεια,
+συνάφεια και οποιαδήποτε μεροληψία. Για παράδειγμα,
 
 14
 00:01:09,080 --> 00:01:15,640
-ask 'Is this easy to understand?' and 'Does it 
-cover what I needed?' to ensure it's on point.
+ρώτησε "Είναι εύκολο να το καταλάβω;" και 'Καλύπτει
+αυτό που χρειαζόμουν;' για να βεβαιωθείς ότι ταιριάζει ακριβώς.
 
 15
 00:01:15,640 --> 00:01:20,120
-N is for Negotiate. If it's 
-not perfect - negotiate. 
+Το Ν (Negotiate) είναι για Διαπραγμάτευση (Δ). Εάν δεν είναι
+δεν είναι τέλειο - κάνε διαπραγματεύσεις.
 
 16
 00:01:20,120 --> 00:01:22,560
-Improve the output by giving the model clear,  
+Βελτίωσε την έξοδο δίνοντας στο μοντέλο σαφή,
 
 17
 00:01:22,560 --> 00:01:26,240
-honest feedback to make the 
-output closer to what you want. 
+ειλικρινή ανατροφοδότηση για να κάνεις την έξοδο
+πιο κοντά σε αυτό που θέλεις.
 
 18
 00:01:26,240 --> 00:01:29,920
-Once it's pretty close, the rest 
-is up to you... the human editor.
+Μόλις είναι αρκετά κοντά, τα υπόλοιπα
+είναι στο χέρι σου... στον ανθρώπινο συντάκτη.
 
 19
 00:01:32,640 --> 00:01:37,280
-Finally, go through and edit the work yourself. 
-The model has done the heavy lifting,  
+Τέλος, επανεξέτασε και επεξεργάσου το έργο μόνος/η σου.
+Το μοντέλο έχει κάνει την πολλή δουλειά,
 
 20
 00:01:37,280 --> 00:01:41,920
-but your final and unique touch 
-ensures quality and accuracy.
+αλλά η τελευταία και μοναδική πινελιά σου
+εξασφαλίζει ποιότητα και ακρίβεια.
 
 21
 00:01:41,920 --> 00:01:47,480
-Any work you say is yours, 
-should actually be your work!
+Οποιοδήποτε έργο λες ότι είναι δικό σου, 
+θα πρέπει να είναι στην πραγματικότητα δική σου δουλειά!
 
