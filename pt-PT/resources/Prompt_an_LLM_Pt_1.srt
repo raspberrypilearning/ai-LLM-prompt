@@ -1,6 +1,6 @@
 1
 00:00:02,800 --> 00:00:06,200
-Let's make great prompts with the OCEAN process!
+Vamos fazer ótimos prompts com o processo OCEAN!
 
 2
 00:00:06,200 --> 00:00:10,800
@@ -24,13 +24,13 @@ básica para o modelo seguir.
 
 6
 00:00:24,080 --> 00:00:31,200
-C is for Context. Give the model all the 
-background info: audience, style, key details. 
+C é de Contexto. Dá ao modelo toda a 
+informação contextual: audiência, estilo, detalhes importantes. 
 
 7
 00:00:31,200 --> 00:00:36,120
-You could expand the prompt to 'Explain what 
-climate change is, to middle school students,  
+Podes expandir o prompt para 'Explica o que 
+são as alterações climáticas, para alunos do secundário, 
 
 8
 00:00:36,120 --> 00:00:42,120
