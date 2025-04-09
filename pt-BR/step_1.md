@@ -10,7 +10,7 @@ By following these steps, you will learn how to prompt a large language model (L
 
 ## --- collapse ---
 
-## title: No YouTube? Download the video!
+## Título: Sem YouTube? Download the video!
 
 You can download all the resources for this project [by clicking here](https://rpf.io/p/en/ai-LLM-prompt-go){:target="_blank"}.
 
