@@ -4,23 +4,23 @@ Let's make great prompts with the OCEAN process!
 
 2
 00:00:06,200 --> 00:00:10,800
-O is for Objective. Set a clear goal!
-Whether you're explaining a topic or  
+O é de Objetivo. Estabelece uma meta bem definida!
+Quer estejas a explicar um tópico ou  
 
 3
 00:00:10,800 --> 00:00:16,160
-writing a story, defining what you want helps 
-the model deliver exactly what you need. 
+a escrever uma história, definir o que queres ajuda 
+o modelo a entregar-te exatamente aquilo que precisas. 
 
 4
 00:00:16,160 --> 00:00:19,480
-For example, start with, 'I 
-want to explain what climate  
+Por exemplo, começa com: 'Eu 
+quero explicar o que são as alterações  
 
 5
 00:00:19,480 --> 00:00:24,080
-change is.' This sets a basic 
-goal for the model to follow.
+climáticas.' Isto define uma meta 
+básica para o modelo seguir.
 
 6
 00:00:24,080 --> 00:00:31,200
