@@ -4,9 +4,9 @@ Questa risorsa didattica non è consigliata agli studenti di età inferiore ai 1
 
 ## Cosa creerai
 
-Benvenuti nell'entusiasmante mondo dei grandi modelli linguistici!
+Ti diamo il benvenuto nell'entusiasmante mondo dei modelli linguistici di grandi dimensioni!
 
-Seguendo questi passaggi, imparerai come sollecitare un modello linguistico di grandi dimensioni (LLM) in modo chiaro, per ottenere i migliori risultati da questi potenti strumenti di intelligenza artificiale.
+Seguendo questi passaggi, imparerai a scrivere prompt in modo chiaro per un modello linguistico di grandi dimensioni (LLM), così da ottenere il massimo da questi potenti strumenti di intelligenza artificiale.
 
 ## --- collapse ---
 
@@ -20,22 +20,22 @@ Puoi scaricare tutte le risorse per questo progetto [cliccando qui](https://rpf.
 
 ## title: Maggiori dettagli
 
-Questa guida vi aiuterà a iniziare con una semplice idea e trasformarla in un prompt dettagliato che produrrà un testo affidabile da un LLM. Seguendo il processo OCEAN, imparerai come costruire un prompt con un **O**ggetto, **C**ontesto, chiaro, e **E**sempi, poi **A**ccertare l'output del LLM e **N**egoziare fintanto che l'output sia simile alla tua idea.
+Questa guida ti aiuterà a trasformare un’idea semplice in un prompt dettagliato, in modo da far generare testi affidabili da un modello linguistico di grandi dimensioni. Seguendo il processo OCEAN, imparerai a creare un prompt con un chiaro **O**biettivo, **C**ontesto ed **E**sempi, per poi **A**nalizzare l’output del modello linguistico e **N**egoziare finché non rispecchia alla tua idea originale.
 
 \--- /collapse ---
 
-### Ti serviranno:
+### Cosa ti serve:
 
-Prima di iniziare, avrai bisogno di accedere a un LLM.
+Prima di iniziare, avrai bisogno di accedere a un modello linguistico di grandi dimensioni.
 
-Se sei al di sotto dei limiti di età richiesti o preferisci ospitare **il tuo** modello di lingua grande su un Raspberry Pi, [segui le nostre istruzioni qui](https://projects.raspberrypi.org/en/projects/llm-rpi){:target="_blank"}.
+Se sei al di sotto dei limiti di età richiesti o preferisci ospitare il tuo modello linguistico di grandi dimensioni su un Raspberry Pi, [segui le nostre istruzioni qui](https://projects.raspberrypi.org/en/projects/llm-rpi){:target="_blank"}.https://projects.raspberrypi.org/en/projects/llm-rpihttps://projects.raspberrypi.org/en/projects/llm-rpihttps://projects.raspberrypi.org/en/projects/llm-rpi
 
-Altri strumenti online sono disponibili, ma richiedono la registrazione con un indirizzo email corrente. Alcuni esempi includono:
+Esistono anche altri strumenti online, ma la maggior parte richiede la registrazione con un indirizzo email valido. Alcuni esempi includono:
 
 - [Google Gemini](https://gemini.google.com/){:target="_blank"} [(T&C: 13 years of age)](https://support.google.com/gemini/answer/13278668?hl=en-GB#zippy=%2Ccant-access-this-service:~:text=mobile%20app.-,What%20you%20need,-To%20use%20the){:target="_blank"}
 - [ChatGPT](https://www.chat.openai.org){:target="_blank"} [(T&C: 13 years of age)](https://help.openai.com/en/articles/8313401-is-chatgpt-safe-for-all-ages){:target="_blank"}
 
-**Se ti iscrivi a un account con uno di questi servizi, ricorda di seguire le loro politiche di sicurezza.**
+**Se ti iscrivi a uno di questi servizi, ricordati di seguire le loro norme di sicurezza.**
 
 ## --- collapse ---
 
@@ -43,17 +43,17 @@ Altri strumenti online sono disponibili, ma richiedono la registrazione con un i
 
 Se hai meno di 13 anni, è importante capire come mantenere al sicuro le tue informazioni personali. La Raspberry Pi Foundation è molto attenta a proteggere i tuoi dati e la tua privacy.
 
-Quando si utilizzano progetti di IA generativa su un Raspberry Pi, tutto il lavoro avviene proprio sul vostro dispositivo. **I tuoi dati personali rimangono sul tuo computer e non li lascia mai.** Questo mantiene le tue informazioni al sicuro e al sicuro.
+Quando si utilizzano progetti di IA generativa su un Raspberry Pi, tutto il lavoro avviene direttamente sul tuo dispositivo. **I tuoi dati personali rimangono sul tuo computer e non vengono mai inviati altrove.** Questo aiuta a mantenere le tue informazioni private e al sicuro.
 
-Potresti aver notato che molti servizi online chiedono agli utenti di avere almeno 13 anni. Questo perché gestiscono e memorizzano i dati che fornisci, che possono includere informazioni personali. Anche se questi servizi seguono regole severe per proteggere i tuoi dati, l'invio di informazioni su Internet può a volte essere meno sicuro.
+Probabilmente avrai notato che molti servizi online richiedono un'età minima di 13 anni. Questo succede perché questi servizi gestiscono e memorizzano i dati che fornisci, che possono includere informazioni personali. Anche se questi servizi seguono regole rigide per proteggere i tuoi dati, inviare informazioni su Internet può comunque comportare dei rischi.
 
-**Con il Raspberry Pi, tutto rimane sul tuo dispositivo,** quindi non devi preoccuparti che i tuoi dati vengano inviati altrove. Questo ti permette di esplorare e conoscere l'IA in modo sicuro. Se hai bisogno di aiuto, chiedi a un genitore, un tutore o un insegnante di guidarti.
+**Con il Raspberry Pi, tutto rimane sul tuo dispositivo,** quindi non devi preoccuparti che i tuoi dati vengano inviati altrove. Questo ti permette di esplorare e conoscere l'IA in modo sicuro. Se hai bisogno di aiuto, chiedi il supporto di un genitore, un tutore o un insegnante.
 
-È anche importante sapere che l'IA generativa può a volte creare **contenuti che non sono accurati, giusti o appropriati**. Questi modelli di intelligenza artificiale possono talvolta avere "allucinazioni" e **produrre informazioni che sembrano vere ma non lo sono**. Quindi, è importante **pensare attentamente all'output dell'intelligenza artificiale e verificarlo**. Quando lavori con l'intelligenza artificiale generativa, assicurati di controllare le informazioni e, in caso di dubbi, chiedi a fonti attendibili.
+Inoltre, è importante sapere che l'intelligenza artificiale generativa può a volte produrre **contenuti imprecisi, non equi o inappropriati**.  I modelli di intelligenza artificiale possono talvolta avere "allucinazioni" e **produrre informazioni che sembrano vere ma non lo sono**. Quindi, è importante **riflettere attentamente sull'output dell'intelligenza artificiale e verificarlo**. Quando usi l'intelligenza artificiale generativa, assicurati di controllare le informazioni e, in caso di dubbi, consulta fonti attendibili.
 
-**Guarda sempre i contenuti generati dall'intelligenza artificiale con attenzione e riflessione.**
+**Guarda sempre con spirito critico ciò che viene generato dall’intelligenza artificiale.**
 
-Divertiti ad imparare e a creare con l'intelligenza artificiale generativa!
+Divertiti a imparare e a creare con l'intelligenza artificiale generativa!
 
 \--- /collapse ---
 
