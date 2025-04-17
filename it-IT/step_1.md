@@ -28,7 +28,7 @@ Questa guida ti aiuterà a trasformare un’idea semplice in un prompt dettaglia
 
 Prima di iniziare, avrai bisogno di accedere a un modello linguistico di grandi dimensioni.
 
-Se sei al di sotto dei limiti di età richiesti o preferisci ospitare il tuo modello linguistico di grandi dimensioni su un Raspberry Pi, [segui le nostre istruzioni qui](https://projects.raspberrypi.org/en/projects/llm-rpi){:target="_blank"}.https://projects.raspberrypi.org/en/projects/llm-rpihttps://projects.raspberrypi.org/en/projects/llm-rpihttps://projects.raspberrypi.org/en/projects/llm-rpi
+Se sei al di sotto dei limiti di età richiesti o preferisci ospitare **il tuo** modello di lingua grande su un Raspberry Pi, [segui le nostre istruzioni qui](https://projects.raspberrypi.org/en/projects/llm-rpi){:target="_blank"}.
 
 Esistono anche altri strumenti online, ma la maggior parte richiede la registrazione con un indirizzo email valido. Alcuni esempi includono:
 
