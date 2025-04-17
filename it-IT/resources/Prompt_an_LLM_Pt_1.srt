@@ -1,0 +1,103 @@
+1
+00:00:02,800 --> 00:00:06,200
+Creiamo prompt efficaci con il processo OCEAN!
+
+2
+00:00:06,200 --> 00:00:10,800
+O sta per Obiettivo. Stabilisci un obiettivo chiaro!
+Sia che tu spieghi un argomento o
+
+3
+00:00:10,800 --> 00:00:16,160
+scriva una storia, definire ciò che vuoi aiuta
+il modello a fornirti esattamente ciò di cui hai bisogno.
+
+4
+00:00:16,160 --> 00:00:19,480
+Ad esempio, potresti iniziare con:
+"Voglio spiegare che cos’è il cambiamento
+
+5
+00:00:19,480 --> 00:00:24,080
+climatico." Questo definisce
+un obiettivo di base che il modello può seguire.
+
+6
+00:00:24,080 --> 00:00:31,200
+C sta per Contesto. Fornisci al modello tutte le
+informazioni di base: pubblico, stile, dettagli chiave.
+
+7
+00:00:31,200 --> 00:00:36,120
+Potresti ampliare il prompt in "Spiega cos'è il 
+cambiamento climatico agli studenti delle scuole medie,
+
+8
+00:00:36,120 --> 00:00:42,120
+in modo semplice e amichevole." 
+così da impostare lo stile e il tono appropriati.
+
+9
+00:00:42,120 --> 00:00:48,080
+E sta per Esempi. Fornisci al modello gli esempi
+che preferisci per orientare l'output.
+
+10
+00:00:48,080 --> 00:00:53,160
+Ad esempio, potresti fornire link o descrivere
+altri video educativi che spiegano concetti
+
+11
+00:00:53,160 --> 00:00:58,160
+scientifici in modo semplice e coinvolgente, 
+aiutando il modello a comprendere lo stile di output desiderato.
+
+12
+00:00:58,160 --> 00:01:02,480
+A sta per Valutare. Valutare l'output del modello.
+
+13
+00:01:02,480 --> 00:01:09,080
+Corrisponde al tuo obiettivo? Verifica che sia chiaro,
+pertinente e di eventuali distorsioni. Ad esempio,
+
+14
+00:01:09,080 --> 00:01:15,640
+chiediti "È facile da capire?" e "Risponde
+a ciò di cui avevo bisogno?" per assicurarti che sia pertinente.
+
+15
+00:01:15,640 --> 00:01:20,120
+N sta per Negoziare. Se non
+è perfetto, negozia.
+
+16
+00:01:20,120 --> 00:01:22,560
+Migliora l'output fornendo indicazioni chiare al modello,
+
+17
+00:01:22,560 --> 00:01:26,240
+feedback sinceri per rendere l'output
+più vicino a ciò che desideri.
+
+18
+00:01:26,240 --> 00:01:29,920
+Una volta che il risultato è sufficientemente vicino,
+il resto spetta a te... il revisore umano.
+
+19
+00:01:32,640 --> 00:01:37,280
+Infine, rivedi e modifica tu stesso il lavoro.
+Il modello ha fatto il grosso,
+
+20
+00:01:37,280 --> 00:01:41,920
+ma il tuo tocco finale e unico
+garantisce qualità e precisione.
+
+
+21
+00:01:41,920 --> 00:01:47,480
+Un lavoro che firmi come tuo, 
+deve esserlo davvero.
+
