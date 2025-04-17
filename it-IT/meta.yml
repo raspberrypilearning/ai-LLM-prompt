@@ -1,6 +1,6 @@
-title: Suggerisci un modello linguistico di grandi dimensioni
+title: Scrivi un prompt per un modello linguistico di grandi dimensioni
 hero_image: images/banner.png
-description: Segui il processo suuggerito detto OCEAN per creare prompt affidabili e chiari che ti consentano di ottenere ogni volta ciò che desideri da un LLM!
+description: Segui il processo OCEAN per creare prompt chiari e affidabili, e ottenere sempre ciò che desideri da un modello linguistico di grandi dimensioni!
 version: 4
 listed: true
 copyedit: false
@@ -9,11 +9,11 @@ steps:
   - 
     title: Introduzione
   - 
-    title: Sollecita un LLM
+    title: Fornisci un prompt a un modello linguistico di grandi dimensioni
     completion:
       - engaged
   - 
-    title: Imposta una persona per un LLM
+    title: Imposta un ruolo per il modello linguistico di grandi dimensioni
     completion:
       - internal
   - 
