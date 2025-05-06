@@ -34,69 +34,69 @@ são as alterações climáticas, para alunos do secundário,
 
 8
 00:00:36,120 --> 00:00:42,120
-in a friendly and simple way.' Which 
-helps set the appropriate style and tone.
+de uma forma amigável e simples.' O que 
+ajuda a definir o estilo e o tom apropriados.
 
 9
 00:00:42,120 --> 00:00:48,080
-E is for examples. Give the model examples 
-you like to guide the model's output. 
+E é de Exemplos. Dá exemplos ao modelo 
+de forma que orientes, à tua maneira, os resultados do modelo.
 
 10
 00:00:48,080 --> 00:00:53,160
-For instance, you might provide links or describe 
-other educational videos that explain science  
+Por exemplo, podes querer fornecer hiperligações ou descrever 
+outros vídeos educacionais que expliquem a ciência
 
 11
 00:00:53,160 --> 00:00:58,160
-topics simply and engagingly, helping the 
-model understand the desired output style.
+tópicos de forma simples e cativante, ajudando o 
+modelo a entender melhor o estilo de resultado desejado.
 
 12
 00:00:58,160 --> 00:01:02,480
-A is for Assess. Assess the output from the model. 
+A é de Avaliação. Avalia o resultado do modelo.
 
 13
 00:01:02,480 --> 00:01:09,080
-Does it match your goal? Check for clarity, 
-relevance and any unfairness. For example,  
+Corresponde ao teu objetivo? Verifica a clareza, 
+relevância e qualquer injustiça. Por exemplo,
 
 14
 00:01:09,080 --> 00:01:15,640
-ask 'Is this easy to understand?' and 'Does it 
-cover what I needed?' to ensure it's on point.
+pergunta 'Isto é fácil de entender?' e 'Será que 
+cobre o que eu precisava?' para garantir que está correto.
 
 15
 00:01:15,640 --> 00:01:20,120
-N is for Negotiate. If it's 
-not perfect - negotiate. 
+N é para Negociar. Se 
+não estiver perfeito - negoceia.
 
 16
 00:01:20,120 --> 00:01:22,560
-Improve the output by giving the model clear,  
+Melhora os resultados ao fornecer ao modelo claro
 
 17
 00:01:22,560 --> 00:01:26,240
-honest feedback to make the 
-output closer to what you want. 
+e honesto feedback para tornar o 
+resultado próximo ao que pretendes.
 
 18
 00:01:26,240 --> 00:01:29,920
-Once it's pretty close, the rest 
-is up to you... the human editor.
+Quando estiver bem próximo, o resto 
+depende de ti... o editor humano.
 
 19
 00:01:32,640 --> 00:01:37,280
-Finally, go through and edit the work yourself. 
-The model has done the heavy lifting,  
+Finalmente, revê e edita o trabalho tu mesmo. 
+O modelo já fez o trabalho pesado,
 
 20
 00:01:37,280 --> 00:01:41,920
-but your final and unique touch 
-ensures quality and accuracy.
+mas o teu toque final único 
+garante qualidade e precisão.
 
 21
 00:01:41,920 --> 00:01:47,480
-Any work you say is yours, 
-should actually be your work!
+Qualquer trabalho que dizes ser teu, 
+deve mesmo ser o teu trabalho!
 
