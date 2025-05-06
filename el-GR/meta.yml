@@ -1,0 +1,19 @@
+---
+title: Προτροπή σε ένα μεγάλο γλωσσικό μοντέλο
+hero_image: images/banner.png
+description: Ακολούθησε τη διαδικασία προτροπής OCEAN (ΣΠΠΑΔ) για να δημιουργήσεις αξιόπιστες, σαφείς προτροπές που δημιουργούν αυτό που θέλεις από ένα LLM κάθε φορά!
+version: 4
+listed: true
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Εισαγωγή
+  - title: Προτροπή σε ένα LLM
+    completion:
+      - engaged
+  - title: Όρισε μια περσόνα για ένα LLM
+    completion:
+      - internal
+  - title: Τι μπορείς να κάνεις τώρα;
+    completion:
+      - external
