@@ -1,86 +1,86 @@
-## The OCEAN prompting process: Personas
+## O processo OCEAN de criar um prompt: Personas
 
-Personas are like different roles or characters you can ask the language model to take on. This shapes how it interacts with you. For example, you might want the model to appear to be a friendly teacher, helpful friend, fictional character, or a historical figure and have a discussion with you, or help you explore some of your own ideas. Using a persona allows _every_ interaction with the LLM to be in a specific context which you set, not just the text it outputs.
+Personas são como diferentes papéis ou personagens que podes pedir ao language model para assumir. Isto molda a forma que ele interage contigo. Por exemplo, podes querer que o modelo se pareça com um professor amigável, um amigo prestativo, um personagem fictício ou uma figura histórica e ter uma discussão contigo ou ajudar-te a explorar algumas das tuas ideias. Usar uma persona permite que **cada** interação com o LLM esteja num contexto específico que tenha sido definido por ti e não seja apenas o texto que ele produz.
 
-### Objective
+### Objetivo
 
-Decide what role you want the language model to take on. Write this in your prompt, clearly stating the role you want it to play.
+Decide que papel queres que o language model assuma. Escreve isso no teu prompt, indicando claramente o papel que queres que ele desempenhe.
 
-<span style="color: red;">In the examples below, objective text is in red.</span>
+<span style="color: red;">Nos exemplos abaixo, o texto do objetivo está a vermelho.</span>
 
-### Context
+### Contexto
 
-Give background details to help the model understand the role. Include specific information about how you want it to behave.
+Dá detalhes do contexto para ajudar o modelo a perceber o seu papel. Inclui informação específica sobre como queres que ele se comporte.
 
-<span style="color: blue;">In the examples below, context text is in blue.</span>
+<span style="color: blue;">Nos exemplos abaixo, o texto do contexto está a azul.</span>
 
-### Examples
+### Exemplos
 
-Show what kind of answers you’re looking for by providing **examples**. This helps the model get it right. You can give examples of things you definitely want included, or ways of speaking you have enjoyed.
+Mostra que tipo de respostas estás à procura ao fornecer **exemplos**. Isto ajuda o modelo a acertar. Podes dar exemplos de coisas que pretendes mesmo incluir, ou maneiras de falar que gostes.
 
-<span style="color: green;"> In the examples below, examples are given in green.</span>
+<span style="color: green;"> Nos exemplos abaixo, os exemplos estão a verde.</span>
 
 \--- task ---
 
-For example: <span style="color: red;">"Behave as a supportive and encouraging coach</span> <span style="color: blue;"> who helps with studying for exams.</span> <span style="color: green;"> Give tips and motivational advice from inspiring people. For example: ‘Remember, every great achievement starts with the decision to try. You’ve got this!’"</span>
+Por exemplo: <span style="color: red;">"Comporta-te como um treinador que apoia e encoraja</span> <span style="color: blue;">que ajuda a estudar para os exames.</span> <span style="color: green;">Dá dicas e conselhos motivacionais de pessoas inspiradoras. Por exemplo: ‘Lembra-te, cada grande conquista começa com uma decisão de tentar. Tu consegues!’"</span>
 
 \--- /task ---
 
 \--- task ---
 
-For example: <span style="color: red;">"Act as a wise and patient librarian</span> <span style="color: blue;"> who helps find interesting books and resources.</span> <span style="color: green;"> Recommend books based on genres I like. For example: ‘If you enjoy mysteries, you might love Agatha Christie’s novels. They are full of twists and turns!’"</span>
+Por exemplo: <span style="color: red;">"Representa um bibliotecário sábio e paciente</span> <span style="color: blue;">que ajuda a encontrar livros e recursos interessantes.</span> <span style="color: green;">Recomenda livros com base em géneros que eu gosto. Por exemplo: ‘Se gostas de mistérios, talvez gostes dos romances de Agatha Christie. Eles estão cheios de voltas e reviravoltas!’"</span>
 
 \---/task---
 
 \--- task ---
 
-For example: <span style="color: red;">"Take on the role of an energetic fitness trainer</span> <span style="color: blue;"> who encourages a healthy lifestyle and daily exercise.</span> <span style="color: green;"> Provide workout routines and motivational quotes. For example: ‘Push yourself because no one else is going to do it for you. Let’s start with a quick warm-up!’"</span>
+Por exemplo: <span style="color: red;">"Assume o papel de um preparador físico energético</span> <span style="color: blue;">que incentiva um estilo de vida saudável e exercício físico diário.</span> <span style="color: green;">Fornece rotinas de treino e mensagens motivacionais. Por exemplo: ‘Esforça-te porque mais ninguém o fará por ti. Vamos começar com um aquecimento rápido!’"</span>
 
 \---/task---
 
 \--- task ---
 
-For example: <span style="color: red;">"Pretend to be a knowledgeable tech guru</span> <span style="color: blue;"> who gives advice on using new gadgets and software.</span> <span style="color: green;"> Explain tech terms and concepts in an accessible way like a friendly robot assistant from a sci-fi movie."</span>
+Por exemplo: <span style="color: red;">"Finge ser um guru da tecnologia bem informado</span> <span style="color: blue;">que dá conselhos sobre como usar novos dispositivos e programas.</span> <span style="color: green;">Explica os termos e conceitos tecnológicos duma maneira acessível, como um assistente robô amigável de um filme de ficção científica."</span>
 
 \---/task---
 
-### Assess
+### Avaliar
 
-Check if the response fits what you wanted. Look for mistakes or things that don't make sense.
+Verifica se a resposta corresponde ao que tu querias. Procura por erros ou coisas que não façam sentido.
 
 \--- task ---
 
-For example:
+Por exemplo:
 
-- Does the response sound like the role you described?
-- Is the tone friendly and funny (or whatever tone you asked for)?
-- Does it include the examples and details you mentioned?
-- Are there any parts of the text that are wrong or confusing?
+- A resposta soa como o papel que descreveste?
+- O tom é amigável e divertido (ou qualquer outro tom que tenhas pedido)?
+- Inclui exemplos e detalhes que mencionaste?
+- Existe alguma parte do texto errada ou confusa?
 
 \--- /task ---
 
-### Negotiate
+### Negociar
 
-If the response isn’t quite right, ask the LLM to make changes. Be specific about what needs to be fixed.
+Se a resposta não estiver totalmente certa, pede ao LLM para fazer alterações. Sê específico sobre o que precisas de corrigir.
 
 \--- task ---
 
-Suggest changes and corrections to the LLM.
+Sugere alterações e correções ao LLM.
 
-For example:
+Por exemplo:
 
-"This is helpful, but please include more motivational quotes and have a more friendly tone.
-"Use less complicated words and explain things like I'm a beginner."
-"Be more positive and constructive in your feedback."
+"Isso é útil, mas, por favor, inclui mais mensagens motivacionais e num tom mais amigável.
+"Usa menos palavras complicadas e explica as coisas como se eu fosse um principiante."
+"Sê mais positivo e construtivo com o teu feedback."
 
 \--- /task ---
 
-### Most important step: The human edit
+### Passo mais importante: A edição humana
 
 \--- task ---
 
-Check the response one last time to make sure it’s easy to follow, correct, and complete.
+Verifica as respostas uma última vez para teres a certeza que é fácil de seguir, correta e completa.
 
-**It's totally on you (the person) to make sure the tool you are using is working correctly and that the output from it isn't used to cause harm.**
+**A responsabilidade é toda tua (a pessoa) garantir que a ferramenta que estás a usar funciona corretamente e que o resultado não cause danos.**
 
 \--- /task ---
