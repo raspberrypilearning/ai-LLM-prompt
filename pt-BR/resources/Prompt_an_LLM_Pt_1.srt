@@ -39,64 +39,64 @@ ajuda a definir o estilo e o tom apropriados.
 
 9
 00:00:42,120 --> 00:00:48,080
-E é de Exemplos. Dê ao modelo os exemplos
-que você prefira para orientar a resposta do modelo.
+E é de Exemplos. Dê ao modelo os exemplos 
+que você prefira para orientar a resposta do modelo. 
 
 10
 00:00:48,080 --> 00:00:53,160
-Por exemplo, você pode fornecer links ou descrever
-outros vídeos educativos que expliquem tópicos
+Por exemplo, você pode fornecer links ou descrever 
+outros vídeos educativos que expliquem tópicos  
 
 11
 00:00:53,160 --> 00:00:58,160
-científicos de forma simples e envolvente, ajudando o modelo
+científicos de forma simples e envolvente, ajudando o modelo 
 a entender o estilo de resposta desejado.
 
 12
 00:00:58,160 --> 00:01:02,480
-A é de Avaliar. Avalie a resposta do modelo.
+A é de Avaliar. Avalie a resposta do modelo. 
 
 13
 00:01:02,480 --> 00:01:09,080
-Ela corresponde ao seu objetivo? Verifique a clareza,
-relevância e injustiça. Por exemplo,
+Ela corresponde ao seu objetivo? Verifique a clareza, 
+relevância e injustiça. Por exemplo,  
 
 14
 00:01:09,080 --> 00:01:15,640
-pergunte 'Isso é fácil de entender?' e 'Isso
+pergunte 'Isso é fácil de entender?' e 'Isso 
 cobre o que eu precisava?' para garantir que esteja correto.
 
 15
 00:01:15,640 --> 00:01:20,120
-N é de Negociar. Se não estiver
-perfeito - negocie.
+N é de Negociar. Se não estiver 
+perfeito - negocie. 
 
 16
 00:01:20,120 --> 00:01:22,560
-Melhore a resposta fornecendo ao modelo um feedback,
+Melhore a resposta fornecendo ao modelo um feedback,  
 
 17
 00:01:22,560 --> 00:01:26,240
-claro e honesto para que a resposta
-seja a mais próxima do que você deseja.
+claro e honesto para que a resposta 
+seja a mais próxima do que você deseja. 
 
 18
 00:01:26,240 --> 00:01:29,920
-Quando estiver bem próximo, o resto
+Quando estiver bem próximo, o resto 
 fica por sua conta... o editor humano.
 
 19
 00:01:32,640 --> 00:01:37,280
-Por fim, revise e edite o trabalho você mesmo.
-O modelo já fez o trabalho pesado,
+Por fim, revise e edite o trabalho você mesmo. 
+O modelo já fez o trabalho pesado,  
 
 20
 00:01:37,280 --> 00:01:41,920
-mas seu toque final e único
+mas seu toque final e único 
 garante qualidade e precisão.
 
 21
 00:01:41,920 --> 00:01:47,480
-Qualquer trabalho que você diz ser seu,
-deve realmente ser seu trabalho! 
+Qualquer trabalho que você diz ser seu, 
+deve realmente ser seu trabalho!
 
