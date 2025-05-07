@@ -1,10 +1,10 @@
 <p style='border-left: solid; border-width:10px; border-color: #FFA500; background-color: #FFFACD; padding: 10px;'>
-This learning resource is not recommended for learners below the age of 13. We encourage users to engage with this material responsibly and to seek guidance from a trusted adult when necessary.
+Este recurso de aprendizagem não é recomendado para alunos menores de 13 anos. Incentivamos os usuários a interagir com este material de forma responsável e a buscar orientação de um adulto de confiança quando necessário.
 </p>
 
 ## O que você vai fazer
 
-Welcome to the exciting world of large language models!
+Bem-vindo ao emocionante mundo dos grandes modelos de linguagem!
 
 By following these steps, you will learn how to prompt a large language model (LLM) in a clear way, to get the best results from these powerful AI tools.
 
