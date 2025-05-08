@@ -49,9 +49,9 @@ You might have noticed that many online services ask users to be at least 13 yea
 
 **With the Raspberry Pi, everything stays on your own device,** so you don’t have to worry about your data being sent elsewhere. This lets you explore and learn about AI safely. If you need help, please ask a parent, guardian, or teacher to guide you.
 
-It's also important to know that generative AI can sometimes create **content that isn’t accurate, fair, or appropriate**. These AI models can sometimes "hallucinate" and **produce information that sounds true but isn’t.** So, it’s important to **think carefully about the AI’s output and double-check it**. As you work with generative AI, make sure to check the information and ask trusted sources if you’re unsure.
+It's also important to know that generative AI can sometimes create **content that isn’t accurate, fair, or appropriate**. These AI models can sometimes "hallucinate" and **produce information that sounds true but isn’t.** So, it’s important to **think carefully about the AI’s output and double-check it**. Ao trabalhar com IA generativa, certifique-se de verificar as informações e pergunte a fontes confiáveis se não tiver certeza.
 
-**Always look at AI-generated content with a careful and thoughtful mind.**
+**Sempre analise o conteúdo gerado por IA de modo cuidadoso e ponderado.**
 
 Divirta-se aprendendo e criando com IA Generativa!
 
