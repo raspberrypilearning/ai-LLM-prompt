@@ -10,7 +10,7 @@ By following these steps, you will learn how to prompt a large language model (L
 
 ## --- collapse ---
 
-## Título: Sem YouTube? Download the video!
+## Título: Sem YouTube? Baixe o vídeo!
 
 You can download all the resources for this project [by clicking here](https://rpf.io/p/en/ai-LLM-prompt-go){:target="_blank"}.
 
@@ -26,7 +26,7 @@ This guide will help you start with a simple idea and turn it into a detailed pr
 
 ### Você vai precisar:
 
-Before you begin, you'll need access to an LLM.
+Antes de começar, você vai precisar de acesso a um LLM.
 
 If you are under the required age limits or prefer to host **your own** large language model on a Raspberry Pi, [follow our instructions here](https://projects.raspberrypi.org/en/projects/llm-rpi){:target="_blank"}.
 
@@ -53,7 +53,7 @@ It's also important to know that generative AI can sometimes create **content th
 
 **Always look at AI-generated content with a careful and thoughtful mind.**
 
-Enjoy learning and creating with Generative AI!
+Divirta-se aprendendo e criando com IA Generativa!
 
 \--- /collapse ---
 
