@@ -1,6 +1,6 @@
-## The OCEAN prompting process: Personas
+## O processo OCEAN para escrever prompts: Personas
 
-Personas are like different roles or characters you can ask the language model to take on. This shapes how it interacts with you. For example, you might want the model to appear to be a friendly teacher, helpful friend, fictional character, or a historical figure and have a discussion with you, or help you explore some of your own ideas. Using a persona allows _every_ interaction with the LLM to be in a specific context which you set, not just the text it outputs.
+Personas são como diferentes papéis ou personagens que você pode pedir ao modelo de linguagem para assumir. Isso molda como ele interage com você. Por exemplo, você pode querer que o modelo pareça um professor amigável, um amigo prestativo, um personagem fictício ou uma figura histórica para ter uma conversa com você ou te ajudar a explorar algumas de suas próprias ideias. Using a persona allows _every_ interaction with the LLM to be in a specific context which you set, not just the text it outputs.
 
 ### Objective
 
