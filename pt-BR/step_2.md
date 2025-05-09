@@ -1,4 +1,4 @@
-## The OCEAN prompting process
+## O processo OCEAN para escrever prompts
 
 <html>
 <br>
@@ -8,27 +8,27 @@
   </div>
 </html>
 
-A "prompt" for large language models (LLMs) is the text you give to the model to get a response. It's like asking a question or giving a starting point for the model to create text. For example, if you type "Tell me a joke" — that's your prompt — so the model should respond with a joke.
+Um "prompt" para grandes modelos de linguagem (LLMs) é o texto que você fornece ao modelo para obter uma resposta. É como fazer uma pergunta ou dar um ponto de partida para o modelo criar o texto. Por exemplo, se você digitar "Me conte uma piada" — esse é o seu prompt — então o modelo deve responder com uma piada.
 
-Getting good at writing solid prompts will make you awesome at using AI tools.
+Aprender a escrever prompts sólidos o tornará excelente no uso de ferramentas de IA.
 
-### Objective
+### Objetivo
 
-Decide what you want to achieve. This is your goal when using the language model. Write this in your prompt, clearly stating **what you want to have** when you are finished with the LLM.
+Decida o que você quer alcançar. Este é seu objetivo ao usar o modelo de linguagem. Escreva isso em seu prompt, declarando com clareza **o que você quer ter** quando terminar de interagir com o LLM.
 
 \--- task ---
 
-Start your prompt with an **Objective**, which should begin: I want help creating **something**.
+Comece seu prompt com um **Objetivo**, que deve começar com: Quero ajuda para criar **algo**.
 
 Por exemplo:
 
-"I want help creating a **recipe for a simple dessert**."
-"I want help creating a **short story**."
-"I want help creating a **study plan for my History exams**."
+"Quero ajuda para criar uma **receita para uma sobremesa simples**."
+"Quero ajuda para criar um **conto**."
+"Quero ajuda para criar um **plano de estudos para minhas provas de História**."
 
 \--- /task ---
 
-### Context
+### Contexto
 
 Give background details to help the model process your request. Include important information like length, who the audience is, tone, and specific facts you want to include.
 
