@@ -1,4 +1,4 @@
-## The OCEAN prompting process
+## OCEAN प्रॉम्प्ट प्रक्रिया
 
 <html>
 <br>
@@ -8,94 +8,94 @@
   </div>
 </html>
 
-A "prompt" for large language models (LLMs) is the text you give to the model to get a response. It's like asking a question or giving a starting point for the model to create text. For example, if you type "Tell me a joke" — that's your prompt — so the model should respond with a joke.
+बड़े भाषा मॉडल (LLM) के लिए "प्रॉम्प्ट" वह पाठ है जो आप मॉडल को प्रतिक्रिया प्राप्त करने के लिए देते हैं। यह मॉडल को एक प्रश्न पूछने या पाठ बनाने के लिए एक प्रारंभ देने जैसा है। उदाहरण के लिए, यदि आप टाइप करते हैं "मुझे एक चुटकुला बताओ" - यह आपका संकेत है - तो मॉडल को एक चुटकुला के साथ जवाब देना चाहिए।
 
-Getting good at writing solid prompts will make you awesome at using AI tools.
+ठोस संकेत लिखने में कुशल होने से आप AI उपकरणों का उपयोग करने में भी कुशल बन जाएंगे।
 
-### Objective
+### उद्देश्य
 
-Decide what you want to achieve. This is your goal when using the language model. Write this in your prompt, clearly stating **what you want to have** when you are finished with the LLM.
+तय करें कि आप क्या हासिल करना चाहते हैं. मॉडल का उपयोग करते समय यह आपका लक्ष्य है। अपने प्रॉम्प्ट में यह लिखें, तथा स्पष्ट रूप से बताएं कि LLM पूरा करने के बाद आप क्या पाना चाहते हैं।
 
 \--- task ---
 
-Start your prompt with an **Objective**, which should begin: I want help creating **something**.
+अपने प्रॉम्प्ट को एक उद्देश्य से शुरू करें, जो इस प्रकार शुरू होना चाहिए: मैं कुछ बनाने में सहायता चाहता हूँ।
 
 उदाहरण के लिए:
 
-"I want help creating a **recipe for a simple dessert**."
-"I want help creating a **short story**."
-"I want help creating a **study plan for my History exams**."
+"मैं एक साधारण मिठाई बनाने की विधि बनाने में मदद चाहता हूँ।"
+"मैं एक लघुकथा लिखने में मदद चाहता हूँ।"
+"मैं अपनी इतिहास की परीक्षा के लिए अध्ययन योजना बनाने में सहायता चाहता हूँ।"
 
 \--- /task ---
 
-### Context
+### संदर्भ
 
-Give background details to help the model process your request. Include important information like length, who the audience is, tone, and specific facts you want to include.
+मॉडल को आपके अनुरोध पर कार्रवाई करने में सहायता करने के लिए पृष्ठभूमि विवरण दें. इसमें महत्वपूर्ण जानकारी शामिल करें जैसे कि लंबाई, दर्शक कौन हैं, स्वर और विशिष्ट तथ्य जिन्हें आप शामिल करना चाहते हैं।
 
 \--- task ---
 
-Give **Context** to your prompt.
+अपने संकेत को संदर्भ दीजिए।
 
 उदाहरण के लिए:
 
-"I want help creating a recipe for a simple dessert. **Make the recipe easy to follow for kids, with ingredients that can be found at home.**"
+"मैं एक साधारण मिठाई बनाने की विधि बनाने में मदद चाहता हूँ। **बच्चों के लिए रेसिपी बनाना आसान बनाएं, तथा घर में उपलब्ध सामग्री का उपयोग करें।**"
 
 \--- /task ---
 
 ### उदाहरण
 
-Show what kind of answers you’re looking for by providing **examples**. This helps the model get it right. You can give examples of other recipes you like, things you definitely want included, or ways of writing the recipe you have enjoyed.
+**उदाहरण** दे कर बताएं कि आप किस प्रकार के उत्तर की तलाश में हैं। इससे मॉडल को सही बनाने में मदद मिलती है। आप अपनी पसंद के अन्य व्यंजनों के उदाहरण दे सकते हैं, वे चीजें जो आप निश्चित रूप से शामिल करना चाहते हैं, या उस व्यंजन को लिखने के तरीके बता सकते हैं जिसे आपने पसंद किया है।
 
 \--- task ---
 
-Add **Examples** to your prompt.
+अपने प्रॉम्प्ट में **उदाहरण** जोड़ें।
 
 उदाहरण के लिए:
 
-"I want help creating a recipe for a simple dessert. Make the recipe easy to follow for kids, with ingredients that can be found at home. **I like recipes that include creative choices, like decorating with sprinkles or adding icing. Write the recipe with a clear list of ingredients, with the method in numbered steps.**"
+"मैं एक साधारण मिठाई बनाने की विधि बनाने में मदद चाहता हूँ। बच्चों के लिए रेसिपी बनाना आसान बनाएं, तथा घर में उपलब्ध सामग्री का उपयोग करें। **मुझे ऐसे व्यंजन पसंद हैं जिनमें रचनात्मक विकल्प शामिल हों, जैसे स्प्रिंकल्स से सजाना या आइसिंग डालना। सामग्री की स्पष्ट सूची के साथ रेसिपी लिखें, तथा विधि क्रमांकित चरणों में बताएं।**"
 
 \--- /task ---
 
-### Assess
+### आकलन: निर्धारित करना
 
-Even though it might seem like it, LLMs don’t understand anything like humans do. Instead, LLMs just choose the **next best word** by predicting patterns in language. They're really just like fancy auto-complete. Sometimes they output things that are wrong or unfair, and **you** have to be careful they don't get you in trouble because you didn't check the output properly.
+भले ही ऐसा प्रतीत हो, लेकिन एलएलएम किसी भी चीज़ को मनुष्यों की तरह नहीं समझते। इसके बजाय, एलएलएम भाषा में पैटर्न की भविष्यवाणी करके **अगला सर्वोत्तम शब्द** चुनते हैं। वे वास्तव में फैंसी ऑटो-कम्पलीट की तरह ही हैं। कभी-कभी वे ऐसी चीजें आउटपुट करते हैं जो गलत या अनुचित होती हैं, और आपको सावधान रहना होगा कि वे आपको परेशानी में न डाल दें क्योंकि आपने आउटपुट को ठीक से जांच नहीं किया।
 
 \--- task ---
 
-Check if the response fits what you wanted. Look for mistakes or things that don't make sense.
+जाँचें कि क्या प्रतिक्रिया आपकी अपेक्षा के अनुरूप है। गलतियों या उन चीज़ों पर ध्यान दें जिनका कोई मतलब नहीं है।
 
 उदाहरण के लिए:
 
-- Does the recipe list all the ingredients and steps clearly?
-- Is there a fun decoration step?
-- Are there any crazy ingredients or methods that might be dangerous?
-- Are there any parts of the text that are wrong about a fact?
-- Are there things you don't understand?
+- क्या रेसिपी में सभी सामग्री और चरणों की सूची स्पष्ट रूप से दी गई है?
+- क्या इसमें सजावट का कोई मज़ेदार चरण है?
+- क्या इसमें कोई अजीब सामग्री या विधि है जो खतरनाक हो सकती है?
+- क्या पाठ का कोई भाग किसी तथ्य के बारे में गलत है?
+- क्या ऐसी कोई बात है जो आपको समझ में नहीं आती?
 
 \--- /task ---
 
-### Negotiate
+### मोल-भाव करना
 
-If the response isn’t quite right, ask the LLM to make changes. Be specific about what needs to be fixed. Treat the LLM like a project partner who isn't very good — check the work twice to make sure it's ok, then make sure the LLM corrects any errors or things you don't like.
+यदि प्रतिक्रिया सही न हो तो एलएलएम से इसमें बदलाव करने के लिए कहें। इस बारे में स्पष्ट रहें कि क्या ठीक करने की आवश्यकता है। LLM को ऐसे प्रोजेक्ट साझेदार की तरह समझें जो बहुत अच्छा नहीं है - यह सुनिश्चित करने के लिए कि यह ठीक है, काम को दो बार जांचें, फिर सुनिश्चित करें कि एलएलएम किसी भी त्रुटि या उन चीजों को ठीक करता है जो आपको पसंद नहीं हैं।
 
 \--- task ---
 
-Suggest changes and corrections to the LLM.
+LLM में परिवर्तन और सुधार का सुझाव दें।
 
 उदाहरण के लिए:
 
-"Close, but not quite. You didn't number the method steps, and I don't have any dark chocolate in the cupboard. I am also not allowed to use a blowtorch."
+"करीब तो है, लेकिन पूरी तरह नहीं। आपने विधि के चरणों को क्रमांकित नहीं किया, और मेरी अलमारी में कोई डार्क चॉकलेट नहीं है। मुझे ब्लोटॉर्च का उपयोग करने की भी अनुमति नहीं है।"
 
 \--- /task ---
 
-**Most important step: The human edit**
+**सबसे महत्वपूर्ण चरण: मानव संपादन**
 
 \--- task ---
 
-Check the response one last time to make sure it’s easy to follow, correct, and complete. There will be a time when it is simply easier to change the words and small things you don't like than keep asking the LLM to do it for you.
+यह सुनिश्चित करने के लिए कि उत्तर का अनुसरण करना, उसे सही करना तथा उसे पूर्ण करना आसान है, उसे अंतिम बार जांच लें। एक समय ऐसा आएगा जब उन शब्दों और छोटी-छोटी चीजों को बदलना अधिक आसान होगा जो आपको पसंद नहीं हैं, बजाय इसके कि आप LLM से ऐसा करने के लिए कहें।
 
-**It's totally on you (the person) to make sure the tool you are using is working correctly and that the output from it isn't used to cause harm.**
+**यह पूरी तरह आप (व्यक्ति) पर निर्भर है कि आप जिस उपकरण का उपयोग कर रहे हैं वह सही ढंग से काम कर रहा है और उससे निकलने वाले आउटपुट का उपयोग नुकसान पहुंचाने के लिए नहीं किया जा रहा है।**
 
 \--- /task ---
 
-In the next step, you will look at setting a **persona** for an LLM.
+अगले चरण में, आप LLM के लिए व्यक्तित्व निर्धारित करने पर विचार करेंगे।
