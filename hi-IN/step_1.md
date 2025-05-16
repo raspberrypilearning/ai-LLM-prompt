@@ -1,59 +1,59 @@
 <p style='border-left: solid; border-width:10px; border-color: #FFA500; background-color: #FFFACD; padding: 10px;'>
-This learning resource is not recommended for learners below the age of 13. We encourage users to engage with this material responsibly and to seek guidance from a trusted adult when necessary.
+यह शिक्षण संसाधन 13 वर्ष से कम आयु के शिक्षार्थियों के लिए अनुशंसित नहीं है। हम उपयोगकर्ताओं को इस सामग्री को जिम्मेदारी से पढ़ने तथा आवश्यकता पड़ने पर किसी विश्वसनीय वयस्क से मार्गदर्शन लेने के लिए प्रोत्साहित करते हैं।
 </p>
 
 ## आप क्या बनाएँगे
 
-Welcome to the exciting world of large language models!
+बड़े भाषा मॉडल की रोमांचक दुनिया में आपका स्वागत है!
 
-By following these steps, you will learn how to prompt a large language model (LLM) in a clear way, to get the best results from these powerful AI tools.
+इन चरणों का पालन करके, आप सीखेंगे कि इन शक्तिशाली AI उपकरणों से सर्वोत्तम परिणाम प्राप्त करने के लिए, एक बड़े भाषा मॉडल (LLM) को स्पष्ट तरीके से कैसे संकेत दिया जाए।
 
 ## --- collapse ---
 
-## title: No YouTube? Download the video!
+## शीर्षक: यूट्यूब नहीं है? वीडियो डाउनलोड करें!
 
-You can download all the resources for this project [by clicking here](https://rpf.io/p/en/ai-LLM-prompt-go){:target="_blank"}.
+आप इस परियोजना के सभी संसाधन [यहां क्लिक करके](https://rpf.io/p/en/ai-LLM-prompt-go){:target="_blank"} डाउनलोड कर सकते हैं।
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title: More detail
+## शीर्षक: अधिक विवरण
 
-This guide will help you start with a simple idea and turn it into a detailed prompt that will produce reliable text from a LLM. By following the OCEAN process, you'll learn how to build a prompt with a clear **O**bjective, **C**ontext, and **E**xamples, then **A**ssess the output of the LLM and **N**egotiate until the output matches your original idea.
+यह मार्गदर्शिका आपको एक सरल विचार से शुरुआत करने और उसे एक विस्तृत संकेत में बदलने में मदद करेगी जो एलएलएम से विश्वसनीय पाठ तैयार करेगा। OCEAN प्रक्रिया का पालन करके, आप सीखेंगे कि एक स्पष्ट उद्देश्य, संदर्भ और उदाहरणों के साथ एक प्रॉम्प्ट कैसे बनाया जाए, फिर LLM के आउटपुट का मूल्यांकन करें और तब तक बातचीत करें जब तक कि आउटपुट आपके मूल विचार से मेल न खा जाए।
 
 \--- /collapse ---
 
 ### आपको चाहिये होगा:
 
-Before you begin, you'll need access to an LLM.
+आरंभ करने से पहले, आपको LLM तक पहुंच की आवश्यकता होगी।
 
-If you are under the required age limits or prefer to host **your own** large language model on a Raspberry Pi, [follow our instructions here](https://projects.raspberrypi.org/en/projects/llm-rpi){:target="_blank"}.
+यदि आप आवश्यक आयु सीमा से कम हैं या रास्पबेरी पाई पर **अपना स्वयं का** बड़ा भाषा मॉडल होस्ट करना पसंद करते हैं, तो [यहां हमारे निर्देशों का पालन करें](https://projects.raspberrypi.org/en/projects/llm-rpi){:target="_blank"}.
 
-Other online tools are available, but require registration with a current email address. Some examples include:
+अन्य ऑनलाइन उपकरण भी उपलब्ध हैं, लेकिन उनके लिए वर्तमान ईमेल पते के साथ पंजीकरण आवश्यक है। कुछ उदाहरणों में शामिल हैं:
 
-- [Google Gemini](https://gemini.google.com/){:target="_blank"} [(T&C: 13 years of age)](https://support.google.com/gemini/answer/13278668?hl=en-GB#zippy=%2Ccant-access-this-service:~:text=mobile%20app.-,What%20you%20need,-To%20use%20the){:target="_blank"}
-- [ChatGPT](https://www.chat.openai.org){:target="_blank"} [(T&C: 13 years of age)](https://help.openai.com/en/articles/8313401-is-chatgpt-safe-for-all-ages){:target="_blank"}
+- [Google Gemini](https://gemini.google.com/){:target="_blank"} [(T&C: 13 वर्ष की आयु)](https://support.google.com/gemini/answer/13278668?hl=en-GB#zippy=%2Ccant-access-this-service:~:text=mobile%20app.-,What%20you%20need,-To%20use%20the){:target="_blank"}
+- [ChatGPT](https://www.chat.openai.org){:target="_blank"} [(T&C: 13 वर्ष की आयु)](https://help.openai.com/en/articles/8313401-is-chatgpt-safe-for-all-ages){:target="_blank"}
 
-**If you sign up for an account with one of these services, please remember to follow their safety policies.**
+**यदि आप इनमें से किसी सेवा के लिए खाता खोलते हैं, तो कृपया उनकी सुरक्षा नीतियों का पालन करना न भूलें।**
 
 ## --- collapse ---
 
-## title:  Why do we recommend older learners use this resource?
+## शीर्षक: हम बड़े विद्यार्थियों को इस संसाधन का उपयोग करने की सलाह क्यों देते हैं?
 
-If you're under 13 years old, it's important to understand how to keep your personal information safe. The Raspberry Pi Foundation is very careful about protecting your data and your privacy.
+यदि आपकी आयु 13 वर्ष से कम है, तो यह समझना महत्वपूर्ण है कि अपनी व्यक्तिगत जानकारी को कैसे सुरक्षित रखें। रास्पबेरी पाई फाउंडेशन आपके डेटा और आपकी गोपनीयता की सुरक्षा के प्रति बहुत सतर्क है।
 
-When you use generative AI projects on a Raspberry Pi, all of the work happens right on your device. **Your personal data stays on your computer and never leaves it.** This keeps your information safe and secure.
+जब आप रास्पबेरी पाई पर जनरेटिव AI प्रोजेक्ट का उपयोग करते हैं, तो सारा काम आपके डिवाइस पर ही हो जाता है। **आपका व्यक्तिगत डेटा आपके कंप्यूटर पर रहता है और कभी बाहर नहीं जाता।** इससे आपकी जानकारी सुरक्षित रहती है।
 
-You might have noticed that many online services ask users to be at least 13 years old. This is because they handle and store data you provide, which can include personal information. Although these services follow strict rules to protect your data, sending information over the internet can sometimes be less secure.
+आपने देखा होगा कि कई ऑनलाइन सेवाएं उपयोगकर्ताओं से कम से कम 13 वर्ष की आयु मांगती हैं। ऐसा इसलिए है क्योंकि वे आपके द्वारा प्रदान किए गए डेटा को संभालते और संग्रहीत करते हैं, जिसमें व्यक्तिगत जानकारी भी शामिल हो सकती है। यद्यपि ये सेवाएं आपके डेटा की सुरक्षा के लिए सख्त नियमों का पालन करती हैं, फिर भी इंटरनेट पर जानकारी भेजना कभी-कभी कम सुरक्षित हो सकता है।
 
-**With the Raspberry Pi, everything stays on your own device,** so you don’t have to worry about your data being sent elsewhere. This lets you explore and learn about AI safely. If you need help, please ask a parent, guardian, or teacher to guide you.
+**रास्पबेरी पाई के साथ, सब कुछ आपकी डिवाइस पर ही रहता है,** इसलिए आपको अपने डेटा के अन्यत्र भेजे जाने के बारे में चिंता करने की आवश्यकता नहीं है। इससे आप सुरक्षित रूप से AI के बारे में खोज और सीख सकते हैं। यदि आपको सहायता की आवश्यकता हो तो कृपया अपने माता-पिता, अभिभावक या शिक्षक से मार्गदर्शन मांगें।
 
-It's also important to know that generative AI can sometimes create **content that isn’t accurate, fair, or appropriate**. These AI models can sometimes "hallucinate" and **produce information that sounds true but isn’t.** So, it’s important to **think carefully about the AI’s output and double-check it**. As you work with generative AI, make sure to check the information and ask trusted sources if you’re unsure.
+यह जानना भी महत्वपूर्ण है कि जनरेटिव एआई कभी-कभी **ऐसी सामग्री बना सकता है जो सटीक, निष्पक्ष या उपयुक्त नहीं होती**। ये AI मॉडल कभी-कभी "भ्रमित" हो सकते हैं और **ऐसी जानकारी उत्पन्न कर सकते हैं जो सच लगती है, लेकिन होती नहीं है।** इसलिए, **AI के आउटपुट के बारे में सावधानी से सोचना और उसकी दोबारा जांच करना** महत्वपूर्ण है। जब आप जनरेटिव एआई के साथ काम करें, तो जानकारी की जांच अवश्य कर लें और यदि आप अनिश्चित हों तो विश्वसनीय स्रोतों से पूछें।
 
-**Always look at AI-generated content with a careful and thoughtful mind.**
+**हमेशा AI-जनरेटेड सामग्री को सावधानीपूर्वक और विचारशील दिमाग से देखें।**
 
-Enjoy learning and creating with Generative AI!
+जनरेटिव एआई के साथ सीखने और सृजन का आनंद लें!
 
 \--- /collapse ---
 
