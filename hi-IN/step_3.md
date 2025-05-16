@@ -1,86 +1,86 @@
-## The OCEAN prompting process: Personas
+## OCEAN प्रॉम्प्ट प्रक्रिया: व्यक्तित्व
 
-Personas are like different roles or characters you can ask the language model to take on. This shapes how it interacts with you. For example, you might want the model to appear to be a friendly teacher, helpful friend, fictional character, or a historical figure and have a discussion with you, or help you explore some of your own ideas. Using a persona allows _every_ interaction with the LLM to be in a specific context which you set, not just the text it outputs.
+व्यक्तित्व विभिन्न भूमिकाओं या पात्रों की तरह होते हैं जिन्हें आप भाषा मॉडल से निभाने के लिए कह सकते हैं। इससे यह तय होता है कि यह आपके साथ किस प्रकार व्यवहार करेगा। उदाहरण के लिए, आप चाहेंगे कि मॉडल एक मित्रवत शिक्षक, मददगार मित्र, काल्पनिक पात्र या ऐतिहासिक व्यक्ति के रूप में दिखे और आपसे चर्चा करे या आपके अपने कुछ विचारों को तलाशने में आपकी मदद करे। व्यक्तित्व का उपयोग करने से एलएलएम के साथ _प्रत्येक_ बातचीत एक विशिष्ट संदर्भ में होती है, जिसे आप निर्धारित करते हैं, न कि केवल आउटपुट किए गए पाठ में।
 
-### Objective
+### उद्देश्य
 
-Decide what role you want the language model to take on. Write this in your prompt, clearly stating the role you want it to play.
+तय करें कि आप भाषा मॉडल से क्या भूमिका चाहते हैं। इसे अपने प्रॉम्प्ट में लिखें, तथा स्पष्ट रूप से बताएं कि आप इसकी क्या भूमिका चाहते हैं।
 
-<span style="color: red;">In the examples below, objective text is in red.</span>
+<span style="color: red;">नीचे दिए गए उदाहरणों में, वस्तुनिष्ठ पाठ लाल रंग में है।</span>
 
-### Context
+### संदर्भ
 
-Give background details to help the model understand the role. Include specific information about how you want it to behave.
+मॉडल को आपके अनुरोध पर कार्रवाई करने में सहायता करने के लिए पृष्ठभूमि विवरण दें. इसमें विशिष्ट जानकारी शामिल करें कि आप इसे किस प्रकार व्यवहार करना चाहते हैं।
 
-<span style="color: blue;">In the examples below, context text is in blue.</span>
+<0>नीचे दिए गए उदाहरणों में, संदर्भ पाठ नीले रंग में है।</0>
 
 ### उदाहरण
 
-Show what kind of answers you’re looking for by providing **examples**. This helps the model get it right. You can give examples of things you definitely want included, or ways of speaking you have enjoyed.
+**उदाहरण** दे कर बताएं कि आप किस प्रकार के उत्तर की तलाश में हैं। इससे मॉडल को सही बनाने में मदद मिलती है। आप उन चीजों के उदाहरण दे सकते हैं जिन्हें आप निश्चित रूप से शामिल करना चाहते हैं, या बोलने के उन तरीकों का उदाहरण दे सकते हैं जिन्हें आपने पसंद किया है।
 
-<span style="color: green;"> In the examples below, examples are given in green.</span>
+<span style="color: green;"> नीचे दिए गए उदाहरणों में, उदाहरण हरे रंग में दिए गए हैं।</span>
 
 \--- task ---
 
-For example: <span style="color: red;">"Behave as a supportive and encouraging coach</span> <span style="color: blue;"> who helps with studying for exams.</span> <span style="color: green;"> Give tips and motivational advice from inspiring people. For example: ‘Remember, every great achievement starts with the decision to try. You’ve got this!’"</span>
+उदाहरण के लिए: <span style="color: red;">"एक सहायक और उत्साहवर्धक प्रशिक्षक की तरह व्यवहार करें</span> <span style="color: blue;"> जो परीक्षा की तैयारी में मदद करता है।</span> <span style="color: green;"> प्रेरक लोगों से सुझाव और प्रेरक सलाह दें। उदाहरण के लिए: 'याद रखें, हर महान उपलब्धि प्रयास करने के निर्णय से शुरू होती है। आपने यह कर लिया!'"</span>
 
 \--- /task ---
 
 \--- task ---
 
-For example: <span style="color: red;">"Act as a wise and patient librarian</span> <span style="color: blue;"> who helps find interesting books and resources.</span> <span style="color: green;"> Recommend books based on genres I like. For example: ‘If you enjoy mysteries, you might love Agatha Christie’s novels. They are full of twists and turns!’"</span>
+उदाहरण के लिए: <span style="color: red;">"एक बुद्धिमान और धैर्यवान लाइब्रेरियन के रूप में कार्य करें</span> <span style="color: blue;"> जो दिलचस्प किताबें और संसाधन खोजने में मदद करता है।</span> <span style="color: green;"> मुझे पसंद की शैलियों के आधार पर पुस्तकों की सिफारिश करें। उदाहरण के लिए: 'यदि आपको रहस्य-साहित्य पसंद है, तो आपको अगाथा क्रिस्टी के उपन्यास भी पसंद आ सकते हैं। वे मोड़ और घुमाव से भरे हुए हैं!'"</span>
 
 \---/task---
 
 \--- task ---
 
-For example: <span style="color: red;">"Take on the role of an energetic fitness trainer</span> <span style="color: blue;"> who encourages a healthy lifestyle and daily exercise.</span> <span style="color: green;"> Provide workout routines and motivational quotes. For example: ‘Push yourself because no one else is going to do it for you. Let’s start with a quick warm-up!’"</span>
+उदाहरण के लिए: <span style="color: red;">"एक ऊर्जावान फिटनेस ट्रेनर की भूमिका निभाएं</span> <span style="color: blue;"> जो एक स्वस्थ जीवन शैली और दैनिक व्यायाम को प्रोत्साहित करता है।</span> <span style="color: green;"> कसरत दिनचर्या और प्रेरक उद्धरण प्रदान करें। उदाहरण के लिए: 'अपने आप को प्रेरित करें क्योंकि कोई भी आपके लिए ऐसा नहीं करने वाला है। चलो शुरू करते हैं!'"</span>
 
 \---/task---
 
 \--- task ---
 
-For example: <span style="color: red;">"Pretend to be a knowledgeable tech guru</span> <span style="color: blue;"> who gives advice on using new gadgets and software.</span> <span style="color: green;"> Explain tech terms and concepts in an accessible way like a friendly robot assistant from a sci-fi movie."</span>
+उदाहरण के लिए: <span style="color: red;">"एक जानकार तकनीकी गुरु होने का दिखावा करें</span> <span style="color: blue;"> जो नए गैजेट और सॉफ़्टवेयर का उपयोग करने की सलाह देता है।</span> <span style="color: green;"> तकनीकी शब्दों और अवधारणाओं को एक विज्ञान-फाई फिल्म के एक दोस्ताना रोबोट सहायक की तरह सुलभ तरीके से समझाएं।"</span>
 
 \---/task---
 
-### Assess
+### आकलन: निर्धारित करना
 
-Check if the response fits what you wanted. Look for mistakes or things that don't make sense.
+जाँचें कि क्या प्रतिक्रिया आपकी अपेक्षा के अनुरूप है। गलतियों या उन चीज़ों पर ध्यान दें जिनका कोई मतलब नहीं है।
 
 \--- task ---
 
 उदाहरण के लिए:
 
-- Does the response sound like the role you described?
-- Is the tone friendly and funny (or whatever tone you asked for)?
-- Does it include the examples and details you mentioned?
-- Are there any parts of the text that are wrong or confusing?
+- क्या प्रतिक्रिया आपके द्वारा वर्णित भूमिका जैसी लगती है?
+- क्या स्वर मित्रवत और मज़ाकिया है (या जो भी स्वर आपने मांगा है)?
+- क्या इसमें आपके द्वारा उल्लिखित उदाहरण और विवरण शामिल हैं?
+- क्या पाठ का कोई भाग किसी तथ्य के बारे में गलत है?
 
 \--- /task ---
 
-### Negotiate
+### मोल-भाव करना
 
-If the response isn’t quite right, ask the LLM to make changes. Be specific about what needs to be fixed.
+यदि प्रतिक्रिया सही न हो तो एलएलएम से इसमें बदलाव करने के लिए कहें। इस बारे में स्पष्ट रहें कि क्या ठीक करने की आवश्यकता है।
 
 \--- task ---
 
-Suggest changes and corrections to the LLM.
+LLM में परिवर्तन और सुधार का सुझाव दें।
 
 उदाहरण के लिए:
 
-"This is helpful, but please include more motivational quotes and have a more friendly tone.
-"Use less complicated words and explain things like I'm a beginner."
-"Be more positive and constructive in your feedback."
+"यह उपयोगी है, लेकिन कृपया अधिक प्रेरक उद्धरण शामिल करें तथा अधिक मैत्रीपूर्ण लहज़ा अपनाएं।
+"कम जटिल शब्दों का प्रयोग करें और चीजों को ऐसे समझाएं जैसे मैं एक नौसिखिया हूं।"
+"अपनी प्रतिक्रिया में अधिक सकारात्मक और रचनात्मक बनें।"
 
 \--- /task ---
 
-### Most important step: The human edit
+### सबसे महत्वपूर्ण चरण: मानव संपादन
 
 \--- task ---
 
-Check the response one last time to make sure it’s easy to follow, correct, and complete.
+यह सुनिश्चित करने के लिए कि उत्तर का अनुसरण करना, उसे सही करना तथा उसे पूर्ण करना आसान है, उसे अंतिम बार जांच लें।
 
-**It's totally on you (the person) to make sure the tool you are using is working correctly and that the output from it isn't used to cause harm.**
+**यह पूरी तरह आप (व्यक्ति) पर निर्भर है कि आप जिस उपकरण का उपयोग कर रहे हैं वह सही ढंग से काम कर रहा है और उससे निकलने वाले आउटपुट का उपयोग नुकसान पहुंचाने के लिए नहीं किया जा रहा है।**
 
 \--- /task ---
