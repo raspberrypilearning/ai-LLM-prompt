@@ -1,0 +1,102 @@
+1
+00:00:02,800 --> 00:00:06,200
+Vamos fazer ótimos prompts com o processo OCEAN!
+
+2
+00:00:06,200 --> 00:00:10,800
+O é de Objetivo. Estabelece uma meta bem definida!
+Quer estejas a explicar um tópico ou  
+
+3
+00:00:10,800 --> 00:00:16,160
+a escrever uma história, definir o que queres ajuda 
+o modelo a entregar-te exatamente aquilo que precisas. 
+
+4
+00:00:16,160 --> 00:00:19,480
+Por exemplo, começa com: 'Eu 
+quero explicar o que são as alterações  
+
+5
+00:00:19,480 --> 00:00:24,080
+climáticas.' Isto define uma meta 
+básica para o modelo seguir.
+
+6
+00:00:24,080 --> 00:00:31,200
+C é de Contexto. Dá ao modelo toda a 
+informação contextual: audiência, estilo, detalhes importantes. 
+
+7
+00:00:31,200 --> 00:00:36,120
+Podes expandir o prompt para 'Explica o que 
+são as alterações climáticas, para alunos do secundário, 
+
+8
+00:00:36,120 --> 00:00:42,120
+de uma forma amigável e simples.' O que 
+ajuda a definir o estilo e o tom apropriados.
+
+9
+00:00:42,120 --> 00:00:48,080
+E é de Exemplos. Dá exemplos ao modelo 
+de forma que orientes, à tua maneira, os resultados do modelo.
+
+10
+00:00:48,080 --> 00:00:53,160
+Por exemplo, podes querer fornecer hiperligações ou descrever 
+outros vídeos educacionais que expliquem a ciência
+
+11
+00:00:53,160 --> 00:00:58,160
+tópicos de forma simples e cativante, ajudando o 
+modelo a entender melhor o estilo de resultado desejado.
+
+12
+00:00:58,160 --> 00:01:02,480
+A é de Avaliação. Avalia o resultado do modelo.
+
+13
+00:01:02,480 --> 00:01:09,080
+Corresponde ao teu objetivo? Verifica a clareza, 
+relevância e qualquer injustiça. Por exemplo,
+
+14
+00:01:09,080 --> 00:01:15,640
+pergunta 'Isto é fácil de entender?' e 'Será que 
+cobre o que eu precisava?' para garantir que está correto.
+
+15
+00:01:15,640 --> 00:01:20,120
+N é para Negociar. Se 
+não estiver perfeito - negoceia.
+
+16
+00:01:20,120 --> 00:01:22,560
+Melhora os resultados ao fornecer ao modelo claro
+
+17
+00:01:22,560 --> 00:01:26,240
+e honesto feedback para tornar o 
+resultado próximo ao que pretendes.
+
+18
+00:01:26,240 --> 00:01:29,920
+Quando estiver bem próximo, o resto 
+depende de ti... o editor humano.
+
+19
+00:01:32,640 --> 00:01:37,280
+Finalmente, revê e edita o trabalho tu mesmo. 
+O modelo já fez o trabalho pesado,
+
+20
+00:01:37,280 --> 00:01:41,920
+mas o teu toque final único 
+garante qualidade e precisão.
+
+21
+00:01:41,920 --> 00:01:47,480
+Qualquer trabalho que dizes ser teu, 
+deve mesmo ser o teu trabalho!
+
