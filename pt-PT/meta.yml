@@ -1,0 +1,19 @@
+---
+title: Prompt de large language model
+hero_image: images/banner.png
+description: Segue o processo OCEAN para criar um prompt confiável e claro que te forneça o que precises de um LLM todas as vezes!
+version: 4
+listed: true
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Introdução
+  - title: Prompt um LLM
+    completion:
+      - engaged
+  - title: Define uma persona para um LLM
+    completion:
+      - internal
+  - title: O que se segue?
+    completion:
+      - external
