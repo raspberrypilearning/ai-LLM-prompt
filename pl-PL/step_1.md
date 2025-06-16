@@ -1,26 +1,26 @@
 <p style='border-left: solid; border-width:10px; border-color: #FFA500; background-color: #FFFACD; padding: 10px;'>
-This learning resource is not recommended for learners below the age of 13. We encourage users to engage with this material responsibly and to seek guidance from a trusted adult when necessary.
+Ten materiał edukacyjny nie jest zalecany dla osób poniżej 13 roku życia. Zachęcamy użytkowników do odpowiedzialnego korzystania z tego materiału i, w razie potrzeby, zwrócenia się o poradę do zaufanej osoby dorosłej.
 </p>
 
-## What you will make
+## Co stworzysz
 
-Welcome to the exciting world of large language models!
+Witaj w ekscytującym świecie dużych modeli językowych!
 
-By following these steps, you will learn how to prompt a large language model (LLM) in a clear way, to get the best results from these powerful AI tools.
+Postępując zgodnie z tymi krokami, nauczysz się jak wydawać polecenia dużym modelom językowym (LLM) w przejrzysty sposób, tak, aby uzyskać najlepsze rezultaty z tych potężnych narzędzi AI.
 
 ## --- collapse ---
 
-## title: No YouTube? Download the video!
+## Nie możesz skorzystać z YouTube? Pobierz wideo!
 
-You can download all the resources for this project [by clicking here](https://rpf.io/p/en/ai-LLM-prompt-go){:target="_blank"}.
+Możesz pobrać wszystkie zasoby dla tego projektu [klikając tutaj](https://rpf.io/p/en/ai-LLM-prompt-go){:target="_blank"}.
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title: More detail
+## Więcej szczegółów
 
-This guide will help you start with a simple idea and turn it into a detailed prompt that will produce reliable text from a LLM. By following the OCEAN process, you'll learn how to build a prompt with a clear **O**bjective, **C**ontext, and **E**xamples, then **A**ssess the output of the LLM and **N**egotiate until the output matches your original idea.
+Ten przewodnik pomoże ci zacząć od prostego pomysłu i zamienić go w szczegółowe polecenie, które pozwoli LLM-owi wygenerować wiarygodny tekst. By following the OCEAN process, you'll learn how to build a prompt with a clear **O**bjective, **C**ontext, and **E**xamples, then **A**ssess the output of the LLM and **N**egotiate until the output matches your original idea.
 
 \--- /collapse ---
 
