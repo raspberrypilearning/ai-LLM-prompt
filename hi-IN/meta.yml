@@ -1,0 +1,19 @@
+---
+title: एक बड़े भाषा मॉडल को प्रेरित करें
+hero_image: images/banner.png
+description: विश्वसनीय, स्पष्ट संकेत बनाने के लिए OCEAN संकेत प्रक्रिया का पालन करें जो हर बार LLM से आपको जो चाहिए वह प्राप्त कराता है!
+version: 4
+listed: true
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: परिचय
+  - title: LLM को प्रेरित करें
+    completion:
+      - engaged
+  - title: LLM के लिए व्यक्तित्व निर्धारित करें
+    completion:
+      - internal
+  - title: अब आप क्या कर सकते हैं?
+    completion:
+      - external
