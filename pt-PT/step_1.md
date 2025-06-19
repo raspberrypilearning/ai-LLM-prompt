@@ -12,13 +12,13 @@ Ao seguir estes passos, irás aprender como fazer um prompt de um large language
 
 ## title: Não tens Youtube? Descarrega o vídeo!
 
-Podes descarregar todos os recursos para este projeto[ao clicar aqui](https://rpf.io/p/en/ai-LLM-prompt-go){:target="_blank"}.
+Podes descarregar todos os recursos para este projeto [ao clicar aqui](https://rpf.io/p/pt-PT/ai-LLM-prompt-go){:target="_blank"}.
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## título: Mais detalhes
+## title: Mais detalhes
 
 Este guia vai ajudar-te a começares com uma ideia simples e torná-la num prompt detalhado que produzirá um texto de confiança de um LLM. Ao seguir o processo OCEAN, vais aprender como criar um prompt com um **O**bjetivo, **C**ontexto e **E**xemplos claros, e depois **A**valiar os resultados do LLM e **N**egociar até que os resultados correspondam à tua ideia original.
 
@@ -28,11 +28,11 @@ Este guia vai ajudar-te a começares com uma ideia simples e torná-la num promp
 
 Antes de começares, vais precisar de acesso a um LLM.
 
-Se tiveres abaixo do limite de idade exigido ou preferires hospedar **o teu próprio** modelo de large language model num Raspberry Pi, [segue as nossas instruções aqui](https://projects.raspberrypi.org/en/projects/llm-rpi){:target="_blank"}.
+Se tiveres abaixo do limite de idade exigido ou preferires hospedar **o teu próprio** modelo de large language model num Raspberry Pi, [segue as nossas instruções aqui](https://projects.raspberrypi.org/pt-PT/projects/llm-rpi){:target="_blank"}.
 
 Estão disponíveis outras ferramentas online, mas exigem que faças um registo com um endereço eletrónico atual. Alguns exemplos incluem:
 
-- [Google Gemini](https://gemini.google.com/){:target="_blank"} [(T&C: 13 anos de idade)](https://support.google.com/gemini/answer/13278668?hl=en-GB#zippy=%2Ccant-access-this-service:~:text=mobile%20app.-,What%20you%20need,-To%20use%20the){:target="_blank"}
+- [Google Gemini](https://gemini.google.com/){:target="_blank"} [(T&C: 13 anos de idade)](https://support.google.com/gemini/answer/13278668?hl=pt-PT#zippy=%2Ccant-access-this-service){:target="_blank"}
 - [ChatGPT](https://www.chat.openai.org){:target="_blank"} [(T&C: 13 anos de idade)](https://help.openai.com/en/articles/8313401-is-chatgpt-safe-for-all-ages){:target="_blank"}
 
 **Se iniciares sessão numa conta com um destes serviços, lembra-te de seguir as suas políticas de segurança.**
