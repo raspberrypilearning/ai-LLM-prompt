@@ -32,7 +32,7 @@
 
 Існують інші онлайн-інструменти, але вони потребують реєстрації через електронну адресу. Ось деякі приклади:
 
-- [Google Gemini](https://gemini.google.com/){:target="_blank"} (потрібно мати 13 років){:target="_blank"}
+- [Google Gemini](https://gemini.google.com/){:target="_blank"} [(потрібно мати 13 років)](https://support.google.com/gemini/answer/13278668?hl=uk&sjid=17146859308360622836-EU#zippy=%2Ccant-access-this-service){:target="_blank"}
 - [ChatGPT](https://www.chat.openai.org){:target="_blank"} [(потрібно мати 13 років)](https://help.openai.com/en/articles/8313401-is-chatgpt-safe-for-all-ages){:target="_blank"}
 
 **Якщо ти реєструєшся на одному з цих сайтів, не забувай дотримуватися його політики безпеки.**
