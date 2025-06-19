@@ -5,17 +5,17 @@ Vamos fazer ótimos prompts com o processo OCEAN!
 2
 00:00:06,200 --> 00:00:10,800
 O é de Objetivo. Estabelece uma meta bem definida!
-Quer estejas a explicar um tópico ou  
+Quer estejas a explicar um tópico ou
 
 3
 00:00:10,800 --> 00:00:16,160
 a escrever uma história, definir o que queres ajuda 
-o modelo a entregar-te exatamente aquilo que precisas. 
+o modelo a entregar-te exatamente aquilo que precisas.
 
 4
 00:00:16,160 --> 00:00:19,480
 Por exemplo, começa com: 'Eu 
-quero explicar o que são as alterações  
+quero explicar o que são as alterações
 
 5
 00:00:19,480 --> 00:00:24,080
@@ -25,12 +25,12 @@ básica para o modelo seguir.
 6
 00:00:24,080 --> 00:00:31,200
 C é de Contexto. Dá ao modelo toda a 
-informação contextual: audiência, estilo, detalhes importantes. 
+informação contextual: audiência, estilo, detalhes importantes.
 
 7
 00:00:31,200 --> 00:00:36,120
 Podes expandir o prompt para 'Explica o que 
-são as alterações climáticas, para alunos do secundário, 
+são as alterações climáticas, para alunos do secundário,
 
 8
 00:00:36,120 --> 00:00:42,120
