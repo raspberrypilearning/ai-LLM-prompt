@@ -1,4 +1,4 @@
-## The OCEAN prompting process
+## Der OCEAN-Abfrageprozess
 
 <html>
 <br>
@@ -8,94 +8,94 @@
   </div>
 </html>
 
-A "prompt" for large language models (LLMs) is the text you give to the model to get a response. It's like asking a question or giving a starting point for the model to create text. For example, if you type "Tell me a joke" — that's your prompt — so the model should respond with a joke.
+Eine "Eingabeaufforderung" für große Sprachmodelle (GSM) ist der Text, den du dem Modell gibst, um eine Antwort zu erhalten. Es ist wie eine Frage zu stellen oder einen Ausgangspunkt für das Modell zu erstellen Text. Wenn du zum Beispiel Erzähl mir einen Witz eingibst, — das ist deine Eingabeaufforderung — dann sollte das Modell mit einem Witz antworten.
 
-Getting good at writing solid prompts will make you awesome at using AI tools.
+Wenn du zum Beispiel Erzähl mir einen Witz eingibst, — das ist deine Eingabeaufforderung — dann sollte das Modell mit einem Witz antworten.
 
-### Objective
+### Ziele
 
-Decide what you want to achieve. This is your goal when using the language model. Write this in your prompt, clearly stating **what you want to have** when you are finished with the LLM.
+Entscheide, was du erreichen möchtest. Das ist dein Ziel, wenn du das Sprachmodell nutzt. Formuliere dies in deiner Eingabeaufforderung und gib klar an, **was du am Ende vom GSM haben möchtest**.
 
 \--- task ---
 
-Start your prompt with an **Objective**, which should begin: I want help creating **something**.
+Beginne deine Eingabeaufforderung mit einem **Ziel**, das mit „Ich möchte Hilfe beim Erstellen von **etwas**“ beginnen sollte.
 
 Zum Beispiel:
 
-"I want help creating a **recipe for a simple dessert**."
-"I want help creating a **short story**."
-"I want help creating a **study plan for my History exams**."
+"Ich möchte Hilfe beim Erstellen eines **Rezepts für ein einfaches Dessert**."
+"Ich möchte Hilfe beim Erstellen einer **Kurzgeschichte**."
+"Ich möchte Hilfe beim Erstellen eines **Lernplans für meine Geschichtsprüfungen**."
 
 \--- /task ---
 
 ### Kontext
 
-Give background details to help the model process your request. Include important information like length, who the audience is, tone, and specific facts you want to include.
+Gib Hintergrundinformationen an, damit das Modell deine Anfrage besser verarbeiten kann. Füge wichtige Informationen hinzu, wie Länge, Zielgruppe, Tonfall und bestimmte Fakten, die du einbeziehen möchtest.
 
 \--- task ---
 
-Give **Context** to your prompt.
+Gib deiner Eingabeaufforderung **Kontext**.
 
 Zum Beispiel:
 
-"I want help creating a recipe for a simple dessert. **Make the recipe easy to follow for kids, with ingredients that can be found at home.**"
+Ich möchte Hilfe beim Erstellen eines Rezepts für ein einfaches Dessert. **Mache das Rezept kinderleicht verständlich, mit Zutaten, die zu Hause gefunden werden können.**
 
 \--- /task ---
 
 ### Beispiele
 
-Show what kind of answers you’re looking for by providing **examples**. This helps the model get it right. You can give examples of other recipes you like, things you definitely want included, or ways of writing the recipe you have enjoyed.
+Zeige, welche Art von Antworten du suchst, indem du **Beispiele** angibst. Das hilft dem Modell, die Anfrage richtig zu verstehen. Du kannst Beispiele für andere Rezepte geben, die dir gefallen, Dinge, die unbedingt enthalten sein sollen, oder Schreibweisen von Rezepten, die dir gefallen haben.
 
 \--- task ---
 
-Add **Examples** to your prompt.
+Füge deiner Eingabeaufforderung **Beispiele** hinzu.
 
 Zum Beispiel:
 
-"I want help creating a recipe for a simple dessert. Make the recipe easy to follow for kids, with ingredients that can be found at home. **I like recipes that include creative choices, like decorating with sprinkles or adding icing. Write the recipe with a clear list of ingredients, with the method in numbered steps.**"
+Ich möchte Hilfe beim Erstellen eines **Rezepts für ein einfaches Dessert**. Mache das Rezept kinderleicht verständlich, mit Zutaten, die zu Hause gefunden werden können. **Ich mag Rezepte, die kreative Elemente enthalten, wie das Dekorieren mit Streuseln oder das Hinzufügen von Zuckerguss**. Schreibe das Rezept mit einer klaren Liste von Zutaten, mit der Methode in nummerierten Schritten.\*\*"
 
 \--- /task ---
 
-### Assess
+### Bewerten
 
-Even though it might seem like it, LLMs don’t understand anything like humans do. Instead, LLMs just choose the **next best word** by predicting patterns in language. They're really just like fancy auto-complete. Sometimes they output things that are wrong or unfair, and **you** have to be careful they don't get you in trouble because you didn't check the output properly.
+Auch wenn es vielleicht so scheint, verstehen GSM nichts so wie Menschen. Stattdessen wählen GSM einfach das **nächstbeste Wort**, indem sie Muster in der Sprache vorhersagen. Sie sind im Grunde nur wie eine ausgefeilte Autovervollständigung. Manchmal geben sie falsche oder ungerechte Informationen aus, und **du** musst vorsichtig sein, damit du keine Probleme bekommst, weil du die Ausgabe nicht richtig überprüft hast.
 
 \--- task ---
 
-Check if the response fits what you wanted. Look for mistakes or things that don't make sense.
+Überprüfe, ob die Antwort dem entspricht, was du wolltest. Achte auf Fehler oder Dinge, die keinen Sinn ergeben.
 
 Zum Beispiel:
 
-- Does the recipe list all the ingredients and steps clearly?
-- Is there a fun decoration step?
-- Are there any crazy ingredients or methods that might be dangerous?
-- Are there any parts of the text that are wrong about a fact?
-- Are there things you don't understand?
+- Listet das Rezept alle Zutaten und Schritte klar auf?
+- Gibt es einen Schritt für eine lustige Dekoration?
+- Gibt es ungewöhnliche Zutaten oder Methoden, die gefährlich sein könnten?
+- Gibt es Teile des Textes, die in Bezug auf Fakten falsch sind?
+- Gibt es Dinge, die du nicht verstehst?
 
 \--- /task ---
 
-### Negotiate
+### Verhandeln
 
-If the response isn’t quite right, ask the LLM to make changes. Be specific about what needs to be fixed. Treat the LLM like a project partner who isn't very good — check the work twice to make sure it's ok, then make sure the LLM corrects any errors or things you don't like.
+Wenn die Antwort nicht ganz passt, bitte das GSM, Änderungen vorzunehmen. Sei genau darin, was korrigiert werden muss. Behandle das LLM wie einen Projektpartner, der nicht sehr gut ist - überprüfe die Arbeit zweimal, um sicherzugehen, dass alles in Ordnung ist, und sorge dann dafür, dass das LLM alle Fehler oder Dinge, die dir nicht gefallen, korrigiert.
 
 \--- task ---
 
-Suggest changes and corrections to the LLM.
+Schlage dem GSM Änderungen und Korrekturen vor.
 
 Zum Beispiel:
 
-"Close, but not quite. You didn't number the method steps, and I don't have any dark chocolate in the cupboard. I am also not allowed to use a blowtorch."
+Fast richtig, aber noch nicht ganz. Du hast die Methodenschritte nicht gezählt, und ich habe keine dunkle Schokolade im Schrank. Auch die Verwendung eines Schweißbrenners ist mir nicht gestattet
 
 \--- /task ---
 
-**Most important step: The human edit**
+**Wichtigster Schritt: Die menschliche Bearbeitung**
 
 \--- task ---
 
-Check the response one last time to make sure it’s easy to follow, correct, and complete. There will be a time when it is simply easier to change the words and small things you don't like than keep asking the LLM to do it for you.
+Überprüfen Sie die Antwort ein letztes Mal, um sicherzustellen, dass sie leicht zu verstehen, zu korrigieren und vollständig ist. Es wird der Moment kommen, an dem es einfacher ist, die Wörter und Kleinigkeiten, die dir nicht gefallen, selbst zu ändern, statt das GSM immer wieder darum zu bitten.
 
-**It's totally on you (the person) to make sure the tool you are using is working correctly and that the output from it isn't used to cause harm.**
+**Es liegt ganz bei dir (der Person), sicherzustellen, dass das Werkzeug, das du verwendest, richtig funktioniert und dass seine Ausgabe nicht dazu verwendet wird, Schaden anzurichten.**
 
 \--- /task ---
 
-In the next step, you will look at setting a **persona** for an LLM.
+Im nächsten Schritt wirst du dir ansehen, wie man eine **Rolle** für ein LLM festlegt.
