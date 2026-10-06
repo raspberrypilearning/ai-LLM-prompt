@@ -2,7 +2,7 @@
 This learning resource is not recommended for learners below the age of 13. We encourage users to engage with this material responsibly and to seek guidance from a trusted adult when necessary.
 </p>
 
-## What you will make
+## あなたが作るもの
 
 Welcome to the exciting world of large language models!
 
@@ -10,7 +10,7 @@ By following these steps, you will learn how to prompt a large language model (L
 
 ## --- collapse ---
 
-## title: No YouTube? Download the video!
+## title: YouTubeが見られませんか？ Download the video!
 
 You can download all the resources for this project [by clicking here](https://rpf.io/p/en/ai-LLM-prompt-go){:target="_blank"}.
 
@@ -24,7 +24,7 @@ This guide will help you start with a simple idea and turn it into a detailed pr
 
 \--- /collapse ---
 
-### You will need:
+### 必要なもの
 
 Before you begin, you'll need access to an LLM.
 
