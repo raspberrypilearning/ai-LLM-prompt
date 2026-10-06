@@ -1,102 +1,84 @@
 1
 00:00:02,800 --> 00:00:06,200
-Let's make great prompts with the OCEAN process!
+¡Vamos a crear excelentes instrucciones con el proceso OCEAN!
 
 2
 00:00:06,200 --> 00:00:10,800
-O is for Objective. Set a clear goal!
-Whether you're explaining a topic or  
+O es de Objetivo. ¡Establece una meta clara! Ya sea que estés explicando un tema o  
 
 3
 00:00:10,800 --> 00:00:16,160
-writing a story, defining what you want helps 
-the model deliver exactly what you need. 
+escribiendo una historia, definir lo que quieres ayuda al modelo a hacer exactamente lo que necesitas. 
 
 4
 00:00:16,160 --> 00:00:19,480
-For example, start with, 'I 
-want to explain what climate  
+Por ejemplo, comienza con: Quiero explicar qué es el cambio  
 
 5
 00:00:19,480 --> 00:00:24,080
-change is.' This sets a basic 
-goal for the model to follow.
+climático. "Esto establece un objetivo básico  que el modelo debe seguir.
 
 6
 00:00:24,080 --> 00:00:31,200
-C is for Context. Give the model all the 
-background info: audience, style, key details. 
+C es de Contexto. Dale al modelo toda  la información contextual: público, estilo, y detalles clave. 
 
 7
 00:00:31,200 --> 00:00:36,120
-You could expand the prompt to 'Explain what 
-climate change is, to middle school students,  
+Podrías ampliar la instrucción a "Explica qué es el cambio climático a estudiantes de primaria,  
 
 8
 00:00:36,120 --> 00:00:42,120
-in a friendly and simple way.' Which 
-helps set the appropriate style and tone.
+de una forma amistosa y fácil" Lo cual ayuda a establecer el estilo y el tono adecuados.
 
 9
 00:00:42,120 --> 00:00:48,080
-E is for examples. Give the model examples 
-you like to guide the model's output. 
+E es de ejemplos. Dale al modelo ejemplos que te gusten para guiar su salida. 
 
 10
 00:00:48,080 --> 00:00:53,160
-For instance, you might provide links or describe 
-other educational videos that explain science  
+Por ejemplo, puedes proporcionar enlaces o describir otros vídeos educativos que explican la ciencia  
 
 11
 00:00:53,160 --> 00:00:58,160
-topics simply and engagingly, helping the 
-model understand the desired output style.
+de manera simple y atractiva, ayudando al modelo a comprender el estilo de resultado deseado.
 
 12
 00:00:58,160 --> 00:01:02,480
-A is for Assess. Assess the output from the model. 
+A es para Assess. Evalúa el resultado del modelo. 
 
 13
 00:01:02,480 --> 00:01:09,080
-Does it match your goal? Check for clarity, 
-relevance and any unfairness. For example,  
+¿Coincide con tu objetivo? Revisa la claridad, la relevancia y cualquier posible sesgo o injusticia. Por ejemplo,  
 
 14
 00:01:09,080 --> 00:01:15,640
-ask 'Is this easy to understand?' and 'Does it 
-cover what I needed?' to ensure it's on point.
+pregunta: "¿Es fácil de entender?" y "¿Cubre  lo que necesitaba?" para asegurarte de que esté bien enfocado.
 
 15
 00:01:15,640 --> 00:01:20,120
-N is for Negotiate. If it's 
-not perfect - negotiate. 
+N es de Negociar. Si  no es perfecto, negocia. 
 
 16
 00:01:20,120 --> 00:01:22,560
-Improve the output by giving the model clear,  
+Mejora el resultado proporcionando al modelo,  
 
 17
 00:01:22,560 --> 00:01:26,240
-honest feedback to make the 
-output closer to what you want. 
+comentarios claros y sinceros para  acercar la respuesta a lo que deseas. 
 
 18
 00:01:26,240 --> 00:01:29,920
-Once it's pretty close, the rest 
-is up to you... the human editor.
+Una vez que esté bastante cerca, el resto depende de ti… el editor humano.
 
 19
 00:01:32,640 --> 00:01:37,280
-Finally, go through and edit the work yourself. 
-The model has done the heavy lifting,  
+Finalmente, revisa y edita el trabajo tú mismo/a. El modelo ha hecho el trabajo más complicado,  
 
 20
 00:01:37,280 --> 00:01:41,920
-but your final and unique touch 
-ensures quality and accuracy.
+pero tu toque final y único  garantiza la calidad y la precisión.
 
 21
 00:01:41,920 --> 00:01:47,480
-Any work you say is yours, 
-should actually be your work!
+¡Cualquier trabajo que digas que es tuyo debe ser realmente tuyo!
 
