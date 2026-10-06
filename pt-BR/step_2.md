@@ -8,13 +8,13 @@
   </div>
 </html>
 
-Um "prompt" para grandes modelos de linguagem (LLMs) é o texto que você fornece ao modelo para obter uma resposta. É como fazer uma pergunta ou dar um ponto de partida para o modelo criar o texto. Por exemplo, se você digitar "Me conte uma piada" — esse é o seu prompt — então o modelo deve responder com uma piada.
+Um "prompt" para grandes modelos de linguagem (LLMs) é o texto que você fornece ao modelo para obter uma resposta. É como fazer uma pergunta ou dar um ponto de partida para o modelo criar o texto. Por exemplo, se você digitar: "Me conte uma piada", esse é o seu prompt, então o modelo deve responder com uma piada.
 
-Aprender a escrever prompts sólidos o tornará excelente no uso de ferramentas de IA.
+Aprender a escrever bons prompts o tornará excelente no uso de ferramentas de IA.
 
 ### Objetivo
 
-Decida o que você quer alcançar. Este é seu objetivo ao usar o modelo de linguagem. Escreva isso em seu prompt, declarando com clareza **o que você quer obter** quando terminar de interagir com o LLM.
+Decida o que você quer. Este é seu objetivo ao usar o modelo de linguagem. Escreva isso em seu prompt, declarando com clareza **o que você quer obter** quando terminar de usar o LLM.
 
 \--- task ---
 
@@ -38,13 +38,13 @@ Dê **Contexto** ao seu prompt.
 
 Por exemplo:
 
-"Quero ajuda para criar uma receita de sobremesa simples. **Torne a receita fácil de seguir para as crianças, com ingredientes que podem ser encontrados em casa.**"
+"Quero ajuda para criar uma receita de sobremesa simples." **Torne a receita fácil de seguir para as crianças, com ingredientes que podem ser encontrados em casa.**"
 
 \--- /task ---
 
 ### Exemplos
 
-Mostre que tipo de respostas você está procurando fornecendo **exemplos**. Isso ajuda o modelo a acertar. Você pode dar exemplos de outras receitas que você gosta, coisas que você definitivamente quer incluir ou maneiras de escrever a receita que você goste.
+Mostre como você quer as respostas que está procurando fornecendo **exemplos**. Isso ajuda o modelo a acertar. Você pode dar exemplos de outras receitas que gosta, coisas que você quer incluir ou maneiras de escrever a receita que você goste.
 
 \--- task ---
 
@@ -52,13 +52,13 @@ Adicione **Exemplos** ao seu prompt.
 
 Por exemplo:
 
-"Quero ajuda para criar uma receita de sobremesa simples. Torne a receita fácil de seguir para as crianças, com ingredientes que podem ser encontrados em casa. **Gosto de receitas que incluam escolhas criativas, como decorar com granulados ou adicionar glacê. Escreva a receita com uma lista clara de ingredientes e o método em etapas numeradas.**"
+"Quero ajuda para criar uma receita de sobremesa simples." Torne a receita fácil de seguir para as crianças, com ingredientes que podem ser encontrados em casa. **Gosto de receitas que incluam escolhas criativas, como decorar com granulados ou adicionar glacê. Escreva a receita com uma lista clara de ingredientes e o método em etapas numeradas.**"
 
 \--- /task ---
 
 ### Avaliar
 
-Embora possa parecer, os LLMs não entendem nada da mesma forma que os humanos. Em vez disso, os LLMs apenas escolhem a **próxima melhor palavra** prevendo padrões na linguagem. Eles são, na verdade, como uma ferramenta sofisticada de auto-completar. Às vezes, eles produzem conteúdos errados ou injustos, e **você** tem que tomar cuidado para não se meter em problemas por não ter verificado a resposta corretamente.
+Embora possa parecer, os LLMs não entendem nada da mesma forma que os humanos. Em vez disso, os LLMs apenas prevê padrões na linguagem e escolhe a **melhor palavra**. Eles são, na verdade, como uma ferramenta sofisticada de auto-completar. Às vezes, eles produzem conteúdos errados ou injustos, e **você** tem que tomar cuidado para não se meter em problemas por não ter verificado a resposta corretamente.
 
 \--- task ---
 
@@ -66,7 +66,7 @@ Verifique se a resposta corresponde ao que você queria. Procure erros ou coisas
 
 Por exemplo:
 
-- A receita lista todos os ingredientes e passos claramente?
+- A receita lista todos os ingredientes e passos de maneira clara?
 - Existe alguma etapa divertida de decoração?
 - Existe algum ingrediente ou método maluco que pode ser perigoso?
 - Há alguma parte do texto que esteja errada sobre algum fato?
@@ -74,9 +74,9 @@ Por exemplo:
 
 \--- /task ---
 
-### Negociar
+### Negocie
 
-Se a resposta não estiver certa, peça ao LLM para fazer alterações. Seja específico sobre o que precisa ser corrigido. Trate o LLM como um parceiro de projeto que não é muito bom — verifique o trabalho duas vezes para ter certeza de que está tudo certo e, depois, certifique-se de que o LLM corrija quaisquer erros ou coisas que você não goste.
+Se a resposta não estiver certa, peça ao LLM para fazer alterações. Seja específico sobre o que precisa ser corrigido. Trate o LLM como um parceiro de projeto que não é tão bom. Verifique o trabalho duas vezes para ter certeza de que está tudo certo e, depois, certifique-se de que o LLM corrija quaisquer erros ou coisas que você não goste.
 
 \--- task ---
 
@@ -92,9 +92,9 @@ Por exemplo:
 
 \--- task ---
 
-Verifique a resposta uma última vez para ter certeza de que é fácil de entender, correta e completa. Chegará um momento em que será mais fácil mudar as palavras e pequenas coisas que você não gosta do que continuar pedindo ao LLM para fazer isso por você.
+Verifique a resposta uma última vez para ter certeza de que é fácil de entender, correta e completa. Chegará um momento em que será mais fácil mudar as palavras e pequenas coisas que você não gosta, do que continuar pedindo ao LLM para fazer isso por você.
 
-**É totalmente sua responsabilidade (a pessoa) garantir que a ferramenta que você está usando esteja funcionando corretamente e que o resultado dela não seja usado para causar danos.**
+**É responsabilidade sua (a pessoa) garantir que a ferramenta que você está usando esteja funcionando corretamente e que o resultado dela não seja usado para causar danos.**
 
 \--- /task ---
 
