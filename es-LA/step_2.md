@@ -1,4 +1,4 @@
-## The OCEAN prompting process
+## El proceso de creación de instrucciones OCEAN
 
 <html>
 <br>
@@ -8,94 +8,94 @@
   </div>
 </html>
 
-A "prompt" for large language models (LLMs) is the text you give to the model to get a response. It's like asking a question or giving a starting point for the model to create text. For example, if you type "Tell me a joke" — that's your prompt — so the model should respond with a joke.
+Una "instrucción" para modelos de lenguaje (LLM) es el texto que le das al modelo para obtener una respuesta. Es como hacer una pregunta o proporcionar un punto de partida para que el modelo genere un texto. Por ejemplo, si escribes "Dime un chiste", esa es tu instrucción, por lo que el modelo debe responder con un chiste.
 
-Getting good at writing solid prompts will make you awesome at using AI tools.
+Dominar la escritura de instrucciones claras te hará experto en el uso de herramientas de IA.
 
-### Objective
+### Objetivo
 
-Decide what you want to achieve. This is your goal when using the language model. Write this in your prompt, clearly stating **what you want to have** when you are finished with the LLM.
+Decide lo que quieres conseguir. Este es tu objetivo al utilizar el modelo de lenguaje. Escribe esto en tu instrucción, indicando claramente **lo que quieres obtener** cuando hayas terminado el LLM.
 
 \--- task ---
 
-Start your prompt with an **Objective**, which should begin: I want help creating **something**.
+Empieza tu solicitud con un **Objetivo**, que debe comenzar con: Quiero ayuda para crear **algo**.
 
 Por ejemplo:
 
-"I want help creating a **recipe for a simple dessert**."
-"I want help creating a **short story**."
-"I want help creating a **study plan for my History exams**."
+"Necesito ayuda para crear una **receta de un postre fácil**."
+"Necesito ayuda para crear un **cuento**."
+"Necesito ayuda para crear un **plan de estudio para mis exámenes de Historia**."
 
 \--- /task ---
 
-### Context
+### Contexto
 
-Give background details to help the model process your request. Include important information like length, who the audience is, tone, and specific facts you want to include.
+Proporciona detalles de contexto para ayudar al modelo a procesar tu solicitud. Incluye información importante como la extensión, quién es el público objetivo, el tono y los datos específicos que quieres incluir.
 
 \--- task ---
 
-Give **Context** to your prompt.
+Dale **Contexto** a tu instrucción.
 
 Por ejemplo:
 
-"I want help creating a recipe for a simple dessert. **Make the recipe easy to follow for kids, with ingredients that can be found at home.**"
+"Necesito ayuda para crear una \*\*receta de un postre fácil. **Haz que la receta sea fácil de seguir para niños, con ingredientes que se puedan encontrar en casa.**"
 
 \--- /task ---
 
 ### Ejemplos
 
-Show what kind of answers you’re looking for by providing **examples**. This helps the model get it right. You can give examples of other recipes you like, things you definitely want included, or ways of writing the recipe you have enjoyed.
+Muestra qué tipo de respuestas buscas dando **ejemplos**. Esto ayuda a que el modelo lo haga bien. Puedes dar ejemplos de otras recetas que te gusten, cosas que quieras que se incluyan sí o sí, o formas de escribir la receta que hayas disfrutado.
 
 \--- task ---
 
-Add **Examples** to your prompt.
+Añade **ejemplos** a tu instrucción.
 
 Por ejemplo:
 
-"I want help creating a recipe for a simple dessert. Make the recipe easy to follow for kids, with ingredients that can be found at home. **I like recipes that include creative choices, like decorating with sprinkles or adding icing. Write the recipe with a clear list of ingredients, with the method in numbered steps.**"
+"Necesito ayuda para crear una \*\*receta de un postre fácil. Haz que la receta sea fácil de seguir para niños, con ingredientes que se puedan encontrar en casa. **Me gustan las recetas que incluyen opciones creativas, como decorar con chispas o añadir glaseado. Escribe la receta con una lista clara de ingredientes y el método en pasos numerados.**
 
 \--- /task ---
 
-### Assess
+### Evaluar
 
-Even though it might seem like it, LLMs don’t understand anything like humans do. Instead, LLMs just choose the **next best word** by predicting patterns in language. They're really just like fancy auto-complete. Sometimes they output things that are wrong or unfair, and **you** have to be careful they don't get you in trouble because you didn't check the output properly.
+Aunque pueda parecerlo, los LLMs no comprenden las cosas de la misma manera que las personas. En cambio, los LLMs sólo eligen la **siguiente mejor palabra** prediciendo patrones en el lenguaje. En realidad, son como un corrector automático avanzado. A veces producen resultados que son incorrectos o injustos, y **tú** debes tener cuidado de que no te causen problemas por no haber revisado correctamente lo que generan.
 
 \--- task ---
 
-Check if the response fits what you wanted. Look for mistakes or things that don't make sense.
+Comprueba si la respuesta se ajusta a lo que querías. Busca errores o cosas que no tengan sentido.
 
 Por ejemplo:
 
-- Does the recipe list all the ingredients and steps clearly?
-- Is there a fun decoration step?
-- Are there any crazy ingredients or methods that might be dangerous?
-- Are there any parts of the text that are wrong about a fact?
-- Are there things you don't understand?
+- ¿La receta incluye todos los ingredientes y los pasos de manera clara?
+- ¿Incluye algún paso divertido de decoración?
+- ¿Hay algún ingrediente o método extraño que pueda ser peligroso?
+- ¿Hay alguna parte del texto que contenga un error sobre algún hecho?
+- ¿Hay cosas que no entiendes?
 
 \--- /task ---
 
-### Negotiate
+### Negociar
 
-If the response isn’t quite right, ask the LLM to make changes. Be specific about what needs to be fixed. Treat the LLM like a project partner who isn't very good — check the work twice to make sure it's ok, then make sure the LLM corrects any errors or things you don't like.
+Si la respuesta no es del todo correcta, pide al LLM que haga los cambios. Sé específico sobre lo que necesita ser corregido. Trata al LLM como a un compañero de proyecto que no es muy bueno: revisa su trabajo dos veces para asegurarte de que esté bien y luego asegúrate de que el LLM corrija cualquier error o cosa que no te guste.
 
 \--- task ---
 
-Suggest changes and corrections to the LLM.
+Sugiere cambios y correcciones al LLM.
 
 Por ejemplo:
 
-"Close, but not quite. You didn't number the method steps, and I don't have any dark chocolate in the cupboard. I am also not allowed to use a blowtorch."
+"Cerca, pero no del todo. No has numerado los pasos del método y no tengo chocolate negro en la despensa. Tampoco se me permite usar un soplete."
 
 \--- /task ---
 
-**Most important step: The human edit**
+**El paso más importante: La edición humana**
 
 \--- task ---
 
-Check the response one last time to make sure it’s easy to follow, correct, and complete. There will be a time when it is simply easier to change the words and small things you don't like than keep asking the LLM to do it for you.
+Revisa la respuesta una última vez para asegurarte de que sea fácil de seguir, correcta y completa. Llegará un momento en que será más fácil cambiar palabras y pequeños detalles que no te gusten que seguir pidiéndole al LLM que lo haga por ti.
 
-**It's totally on you (the person) to make sure the tool you are using is working correctly and that the output from it isn't used to cause harm.**
+**Depende completamente de ti (la persona) asegurarte de que la herramienta que estás utilizando funciona correctamente y de que su resultado no se utilice para hacer daño.**
 
 \--- /task ---
 
-In the next step, you will look at setting a **persona** for an LLM.
+En el siguiente paso, verás cómo establecer una **personalidad** para un LLM.
