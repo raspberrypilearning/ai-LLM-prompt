@@ -1,102 +1,102 @@
 1
 00:00:02,800 --> 00:00:06,200
-Let's make great prompts with the OCEAN process!
+Lass uns mit dem OCEAN-Prozess großartige Eingabeaufforderungen erstellen!
 
 2
 00:00:06,200 --> 00:00:10,800
-O is for Objective. Set a clear goal!
-Whether you're explaining a topic or  
+O steht für Objektive. Setze ein klares Ziel! 
+Egal, ob du ein Thema erklärst oder
+
 
 3
 00:00:10,800 --> 00:00:16,160
-writing a story, defining what you want helps 
-the model deliver exactly what you need. 
+Eine Geschichte schreibst - genau festzulegen, was du willst, hilft
+dem Modell, genau das zu liefern, was du brauchst
 
 4
 00:00:16,160 --> 00:00:19,480
-For example, start with, 'I 
-want to explain what climate  
+Zum Beispiel beginne mit: „Ich möchte erklären, was Klima
 
 5
 00:00:19,480 --> 00:00:24,080
-change is.' This sets a basic 
-goal for the model to follow.
+Veränderung ist. Dies legt ein grundlegendes
+Ziel fest, dem das Modell folgen soll.
 
 6
 00:00:24,080 --> 00:00:31,200
-C is for Context. Give the model all the 
-background info: audience, style, key details. 
+K steht für Kontext. Gib dem Modell alle
+Hintergrundinformationen: Zielgruppe, Stil, wichtige Details
 
 7
 00:00:31,200 --> 00:00:36,120
-You could expand the prompt to 'Explain what 
-climate change is, to middle school students,  
+Du könntest die Eingabeaufforderung erweitern zu: „Erkläre, was 
+Klimawandel ist, für Schüler der Mittelstufe,
 
 8
 00:00:36,120 --> 00:00:42,120
-in a friendly and simple way.' Which 
-helps set the appropriate style and tone.
+Auf eine freundliche und einfache Weise. Dies hilft, 
+den passenden Stil und Ton festzulegen.
 
 9
 00:00:42,120 --> 00:00:48,080
-E is for examples. Give the model examples 
-you like to guide the model's output. 
+B steht für Beispiele. Gib dem Modell Beispiele,
+die dir gefallen, um die Ausgabe des Modells zu steuern.
 
 10
 00:00:48,080 --> 00:00:53,160
-For instance, you might provide links or describe 
-other educational videos that explain science  
+Zum Beispiel könntest du Links bereitstellen oder andere Bildungs-Videos beschreiben,
+die wissenschaftliche Inhalte erklären
 
 11
 00:00:53,160 --> 00:00:58,160
-topics simply and engagingly, helping the 
-model understand the desired output style.
+Themen auf einfache und ansprechende Weise, damit das Modell den gewünschten Ausgabestil versteht.
 
 12
 00:00:58,160 --> 00:01:02,480
-A is for Assess. Assess the output from the model. 
+A steht für Bewertung. Bewerte die Ausgabe des Modells
 
 13
 00:01:02,480 --> 00:01:09,080
-Does it match your goal? Check for clarity, 
-relevance and any unfairness. For example,  
+Entspricht sie deinem Ziel? Überprüfe Klarheit,
+Relevanz und mögliche Ungerechtigkeiten. Zum Beispiel
 
 14
 00:01:09,080 --> 00:01:15,640
-ask 'Is this easy to understand?' and 'Does it 
-cover what I needed?' to ensure it's on point.
+Frage: „Ist das leicht zu verstehen?“ Und „Deckt es ab, was ich brauchte?“, um sicherzustellen, dass es passt.
 
 15
 00:01:15,640 --> 00:01:20,120
-N is for Negotiate. If it's 
-not perfect - negotiate. 
+V steht für Verhandlung. Wenn es nicht perfekt ist - verhandle.
 
 16
 00:01:20,120 --> 00:01:22,560
-Improve the output by giving the model clear,  
+Verbessere die Ausgabe, indem du dem Modell klare,
 
 17
 00:01:22,560 --> 00:01:26,240
-honest feedback to make the 
-output closer to what you want. 
+Ehrliche Rückmeldungen gibst, um die
+Ausgabe näher an das zu bringen, was du möchtest
 
 18
 00:01:26,240 --> 00:01:29,920
-Once it's pretty close, the rest 
-is up to you... the human editor.
+Wenn es schon ziemlich nah dran ist, liegt der Rest
+bei dir… der menschlichen Überarbeitung.
 
 19
 00:01:32,640 --> 00:01:37,280
-Finally, go through and edit the work yourself. 
-The model has done the heavy lifting,  
+Gehe schließlich selbst durch und 
+überarbeite die Arbeit. 
+Das Modell hat die Hauptarbeit erledigt,
 
 20
 00:01:37,280 --> 00:01:41,920
-but your final and unique touch 
-ensures quality and accuracy.
+Aber dein letzter, individueller Feinschliff, 
+sorgt für Qualität und Genauigkeit.
+
 
 21
 00:01:41,920 --> 00:01:47,480
-Any work you say is yours, 
-should actually be your work!
+Jede Arbeit, die du als deine angibst, 
+
+sollte tatsächlich von dir stammen!
 
