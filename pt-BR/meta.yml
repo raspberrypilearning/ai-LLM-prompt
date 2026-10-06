@@ -1,6 +1,6 @@
 title: Escreva um prompt para um grande modelo de linguagem
 hero_image: images/banner.png
-description: Siga o processo OCEAN de criação de prompt para criar prompts confiáveis e claros que sempre lhe darão o que você quer de um LLM!
+description: Siga o processo OCEAN de criação de prompt para fazer prompts confiáveis, claros e que te darão o que você quer de um LLM!
 version: 4
 listed: true
 copyedit: false
@@ -14,9 +14,5 @@ steps:
       - engaged
   - 
     title: Defina uma persona para um LLM
-    completion:
-      - internal
-  - 
-    title: O que você pode fazer agora?
     completion:
       - external
