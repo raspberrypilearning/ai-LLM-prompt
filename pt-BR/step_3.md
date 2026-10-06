@@ -4,9 +4,9 @@ Personas são como diferentes papéis ou personagens que você pode pedir ao mod
 
 ### Objetivo
 
-Decida qual papel você quer que o modelo de linguagem assuma. Escreva isso no seu pronto, indicando com clareza o papel que você deseja que ele desempenhe.
+Decida qual papel você quer que o modelo de linguagem assuma. Escreva isso no seu prompt, indicando com clareza o papel que você deseja que ele desempenhe.
 
-<span style="color: red;">Nos exemplos abaixo, o texto objetivo está em vermelho.</span>
+<span style="color: red;">Nos exemplos abaixo, o texto sobre o objetivo está em vermelho.</span>
 
 ### Contexto
 
@@ -16,7 +16,7 @@ Dê contexto em detalhe para ajudar o modelo a entender a função. Inclua infor
 
 ### Exemplos
 
-Mostre que tipo de respostas você está procurando fornecendo **exemplos**. Isso ajuda o modelo a acertar. Você pode dar exemplos de coisas que você definitivamente quer incluir ou maneiras de falar que você gostou.
+Mostre como você quer as respostas que está procurando fornecendo **exemplos**. Isso ajuda o modelo a acertar. Você pode dar exemplos de coisas que quer incluir ou maneiras de falar que você gostou.
 
 <span style="color: green;"> Nos exemplos abaixo, os exemplos são dados em verde.</span>
 
@@ -28,13 +28,13 @@ Por exemplo: <span style="color: red;">"Comporte-se como um treinador que apoia 
 
 \--- task ---
 
-Por exemplo: <span style="color: red;">"Aja como um bibliotecário sábio e paciente</span> <span style="color: blue;"> que ajuda a encontrar livros e recursos interessantes.</span> <span style="color: green;"> Recomende livros com base em gêneros que eu goste. Por exemplo: 'Se você gosta de mistérios, talvez ame os romances de Agatha Christie. Eles são cheios de reviravoltas!'"</span>
+Por exemplo: <span style="color: red;">"Aja como um bibliotecário sábio e paciente</span> <span style="color: blue;"> que ajuda a encontrar livros e recursos interessantes.</span> <span style="color: green;"> Recomende livros com base em gêneros que eu goste. Por exemplo: 'Se você é fã de mistérios, talvez goste dos romances da Agatha Christie. Eles são cheios de reviravoltas!'"</span>
 
 \---/task---
 
 \--- task ---
 
-Por exemplo: <span style="color: red;">"Assuma o papel de um personal trainer energético</span> <span style="color: blue;"> que incentiva um estilo de vida saudável e exercícios diários.</span> <span style="color: green;"> Forneça rotinas de exercícios e citações motivacionais. Por exemplo: "Se esforce porque ninguém mais fará isso por você. Vamos começar com um aquecimento rápido!'"</span>
+Por exemplo: <span style="color: red;">"Assuma o papel de um personal trainer energético</span> <span style="color: blue;"> que incentiva um estilo de vida saudável e exercícios diários.</span> <span style="color: green;"> Forneça rotinas de exercícios e frases motivacionais. Por exemplo: "Se esforce porque ninguém mais fará isso por você. Vamos começar com um aquecimento rápido!'"</span>
 
 \---/task---
 
@@ -44,7 +44,7 @@ Por exemplo: <span style="color: red;">"Finja ser um guru de tecnologia bem info
 
 \---/task---
 
-### Avaliar
+### Avalie
 
 Verifique se a resposta corresponde ao que você queria. Procure erros ou coisas que não façam sentido.
 
@@ -52,16 +52,16 @@ Verifique se a resposta corresponde ao que você queria. Procure erros ou coisas
 
 Por exemplo:
 
-- A resposta soa como o papel que você descreveu?
+- A resposta é parecida com o que você descreveu?
 - O tom é amigável e engraçado (ou o tom que você pediu)?
 - Inclui os exemplos e detalhes que você mencionou?
 - Há partes do texto erradas ou confusas?
 
 \--- /task ---
 
-### Negociar
+### Negocie
 
-Se a resposta não estiver certa, peça para o LLM fazer alterações. Seja específico sobre o que precisa ser corrigido.
+Se a resposta não estiver certa, peça para o LLM fazer alterações. Escreva com detalhes o que precisa ser corrigido.
 
 \--- task ---
 
@@ -69,18 +69,18 @@ Sugira alterações e correções para o LLM.
 
 Por exemplo:
 
-"Isso é útil, mas, por favor, inclua mais citações motivacionais e use um tom mais amigável."
-"Use palavras menos complicadas e explique as coisas como se eu fosse um iniciante."
+"Isso é útil, mas, por favor, inclua mais frases motivacionais e use um tom mais amigável."
+"Use palavras menos complicadas e explique as coisas como se eu fosse inciante no assunto."
 "Seja mais positivo e construtivo no seu feedback."
 
 \--- /task ---
 
-### Etapa mais importante: A edição humana
+### Etapa mais importante: Edição humana
 
 \--- task ---
 
 Verifique a resposta uma última vez para ter certeza de que é fácil de entender, correta e completa.
 
-**É totalmente sua responsabilidade (a pessoa) garantir que a ferramenta que você está usando esteja funcionando corretamente e que o resultado dela não seja usado para causar danos.**
+**É responsabilidade sua (a pessoa) garantir que a ferramenta que você está usando esteja funcionando corretamente e que o resultado dela não seja usado para causar danos.**
 
 \--- /task ---
