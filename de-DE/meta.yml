@@ -1,6 +1,6 @@
-title: Prompt a large language model
+title: Gib einem großen Sprachmodell eine Eingabeaufforderung
 hero_image: images/banner.png
-description: Follow the OCEAN prompting process to create reliable, clear prompts that get what you want from an LLM every time!
+description: Folge dem OCEAN-Eingabeprozess, um zuverlässige, klare Eingabeaufforderungen zu erstellen, die dir jedes Mal die gewünschten Ergebnisse von einem LLM liefern!
 version: 4
 listed: true
 copyedit: false
@@ -9,14 +9,10 @@ steps:
   - 
     title: Einleitung
   - 
-    title: Prompt an LLM
+    title: Gib einem GSM eine Eingabeaufforderung
     completion:
       - engaged
   - 
-    title: Set a persona for an LLM
-    completion:
-      - internal
-  - 
-    title: Was kannst du jetzt tun?
+    title: Lege eine Rolle für ein LLM fest
     completion:
       - external
