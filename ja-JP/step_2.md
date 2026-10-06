@@ -20,7 +20,7 @@ Decide what you want to achieve. This is your goal when using the language model
 
 Start your prompt with an **Objective**, which should begin: I want help creating **something**.
 
-For example:
+例えば:
 
 "I want help creating a **recipe for a simple dessert**."
 "I want help creating a **short story**."
@@ -36,13 +36,13 @@ Give background details to help the model process your request. Include importan
 
 Give **Context** to your prompt.
 
-For example:
+例えば:
 
 "I want help creating a recipe for a simple dessert. **Make the recipe easy to follow for kids, with ingredients that can be found at home.**"
 
 \--- /task ---
 
-### Examples
+### 例
 
 Show what kind of answers you’re looking for by providing **examples**. This helps the model get it right. You can give examples of other recipes you like, things you definitely want included, or ways of writing the recipe you have enjoyed.
 
@@ -50,7 +50,7 @@ Show what kind of answers you’re looking for by providing **examples**. This h
 
 Add **Examples** to your prompt.
 
-For example:
+例えば:
 
 "I want help creating a recipe for a simple dessert. Make the recipe easy to follow for kids, with ingredients that can be found at home. **I like recipes that include creative choices, like decorating with sprinkles or adding icing. Write the recipe with a clear list of ingredients, with the method in numbered steps.**"
 
@@ -64,7 +64,7 @@ Even though it might seem like it, LLMs don’t understand anything like humans 
 
 Check if the response fits what you wanted. Look for mistakes or things that don't make sense.
 
-For example:
+例えば:
 
 - Does the recipe list all the ingredients and steps clearly?
 - Is there a fun decoration step?
@@ -82,7 +82,7 @@ If the response isn’t quite right, ask the LLM to make changes. Be specific ab
 
 Suggest changes and corrections to the LLM.
 
-For example:
+例えば:
 
 "Close, but not quite. You didn't number the method steps, and I don't have any dark chocolate in the cupboard. I am also not allowed to use a blowtorch."
 
