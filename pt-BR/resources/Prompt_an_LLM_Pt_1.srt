@@ -9,8 +9,7 @@ Quer você esteja explicando um tópico ou  
 
 3
 00:00:10,800 --> 00:00:16,160
-escrevendo uma estória, definir o que você quer ajuda 
-o modelo a entregar exatamente o que você precisa. 
+escrevendo uma história, definir o que você quer ajuda o modelo a entregar exatamente o que você precisa. 
 
 4
 00:00:16,160 --> 00:00:19,480
@@ -29,8 +28,7 @@ informações básicas: público, estilo, detalhes importantes. 
 
 7
 00:00:31,200 --> 00:00:36,120
-Você poderia expandir o prompt para 'Explique o que é 
-mudança climática para alunos do ensino fundamental,  
+Você poderia expandir o prompt para 'Explique o que é mudança climática para alunos do ensino fundamental,  
 
 8
 00:00:36,120 --> 00:00:42,120
@@ -40,7 +38,7 @@ ajuda a definir o estilo e o tom apropriados.
 9
 00:00:42,120 --> 00:00:48,080
 E é de Exemplos. Dê ao modelo os exemplos 
-que você prefira para orientar a resposta do modelo. 
+ que você prefere para orientar a resposta a ser dada
 
 10
 00:00:48,080 --> 00:00:53,160
@@ -63,8 +61,8 @@ relevância e injustiça. Por exemplo,  
 
 14
 00:01:09,080 --> 00:01:15,640
-pergunte 'Isso é fácil de entender?' e 'Isso 
-cobre o que eu precisava?' para garantir que esteja correto.
+pergunte: "Isso é fácil de entender?" e "Isso 
+cobre o que eu precisava?" para garantir que esteja correto.
 
 15
 00:01:15,640 --> 00:01:20,120
@@ -83,12 +81,12 @@ seja a mais próxima do que você deseja. 
 18
 00:01:26,240 --> 00:01:29,920
 Quando estiver bem próximo, o resto 
-fica por sua conta... o editor humano.
+fica por sua conta.
 
 19
 00:01:32,640 --> 00:01:37,280
 Por fim, revise e edite o trabalho você mesmo. 
-O modelo já fez o trabalho pesado,  
+O modelo já fez a parte mais difícil,  
 
 20
 00:01:37,280 --> 00:01:41,920
