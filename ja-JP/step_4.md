@@ -1,3 +1,3 @@
-## What can you do now?
+## 次は何をしましょうか？
 
-There are lots of other machine learning and AI projects in the [artificial intelligence](https://projects.raspberrypi.org/en/pathways/ai-toolkit) toolkit.
+[人工知能] (https://projects.raspberrypi.org/en/pathways/ai-toolkit) ツールキットには、他の機械学習や AI プロジェクトも多数あります。
